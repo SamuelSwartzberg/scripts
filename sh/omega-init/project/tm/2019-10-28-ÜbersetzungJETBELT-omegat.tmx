@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.0.0_0_c63a9b8dc" segtype="sentence" srclang="de-DE"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Anschließen werden wir in mehreren Make Offs die Arbeitsweise veranschaulichen, so zu sagen ein Blick hinter die Kulissen gewähren, das schafft Vertrauen und der Kunde weiss dass er in den besten Händen ist.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191028T131352Z" creationid="samuel" creationdate="20191028T130859Z">
+        <seg>Each sample will be accompanied by a making-of, to give you a behind-the-scenes look at our manufacturing process and showcase our talented team. This way you can be sure you are in the best of hands!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Aus dem 3-D-Modell wird dann ein Prototyp im 3-D-Druck erstellt und anschließend im gewünschten Material gegossen.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191028T125921Z" creationid="samuel" creationdate="20191028T124257Z">
+        <seg>After 3-D printing a prototype, the buckle then will be cast in the chosen material.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Danach wird der Verschluss von Kevin Barnes in der gewünschten Weise (verschiedene Oberflächen und Strukturen, Edelsteine, Brillianten etc.) veredelt.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191028T130033Z" creationid="samuel" creationdate="20191028T130033Z">
+        <seg>Finally, Kevin Barnes will adorn the buckle with the chosen textures, jewels or gemstones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Der Kunde entscheidet was er haben möchte und wählt ein Thema aus.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191028T131557Z" creationid="samuel" creationdate="20191028T123709Z">
+        <seg>Once you have decided on your ideal material, it's time to choose which motif will adorn your JET BELT®.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Der exklusive Gürtel von JET BELT®, der auf höchstem Niveau gefertigt wird soll damit auch den Kundenkreis erschließen, der nicht nur die Qualität und die Funktion des JET BELT® genießen möchte, sondern auch Wert auf einen exklusiven nur für ihn angefertigten Verschluss legt.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191028T131536Z" creationid="samuel" creationdate="20191028T122522Z">
+        <seg>We know that you, the discerning customer, often not only value the high quality and seamless functionality of the JET BELT®, but also a completely unique buckle, personally chosen by you to fit your inimitable personal style.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Der exklusive Kunde erhält dann einen Verschluss zu seinem JET BELT® der weltweit einzigartig ist und den Stil des Kunden auf der handwerklich höchsten Stufe individualisiert - mehr geht nicht!</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191028T132553Z" creationid="samuel" creationdate="20191028T130149Z">
+        <seg>The final product is a JET BELT® that is truly one of a kind, a belt buckle that has via superior workmanship achieved an elegance that is both unique and matchless.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die dafür verwendeten Materialien unterscheiden sich hier deutlich von dem bisherigen Materail beschichteter Zinkdruckguss.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191028T123447Z" creationid="samuel" creationdate="20191028T122920Z">
+        <seg>To begin with, we have selected a variety of materials to choose from:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Hier bekommt er Vorschläge in Form von 3-D- konstruierten Bildern die dem echten Produkt täuschend ähnlich sind die dann zu einem Lösungsvorschlag führen.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191028T132634Z" creationid="samuel" creationdate="20191028T124148Z">
+        <seg>You will then receive 3-D mock-ups of the final product, allowing you to preview the belt, exercise your taste and suggest any modifications you  require for the belt to be exactly as you imagine it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>JET BELT® Andreas Felger München und der Schmuckdesigner Kevin Barnes ("&lt;t0/&gt;https://edelundmetall.com/&lt;t1/&gt;“)&lt;t2/&gt; aus München starten Zusammenarbeit.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191028T131941Z" creationid="samuel" creationdate="20191028T121220Z">
+        <seg>JET BELT® by Andreas Felger and Munich-based jewelry designer Kevin Barnes ( &lt;t0/&gt;"https://edelundmetall.com/"&lt;t1/&gt;) launch collaboration!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wir werden in den nächsten Wochen Beispiele dieser Individualisierung aufzeigen, damit es besser vorstellbar ist was möglich ist und auf welchem Niveau wir arbeiten.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191028T131834Z" creationid="samuel" creationdate="20191028T130755Z">
+        <seg>Stay tuned as we feature different samples of this personalization in the following weeks - be ready to be amazed at our workmanship and the possibilities available.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ziel dieser Zusammenarbeit ist es, die Verschlüsse von JET BELT® auf dem höchsten Niveau für den anspruchsvollen Kunden zu individualisieren.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191029T085130Z" creationid="samuel" creationdate="20191028T122115Z">
+        <seg>Enabling the sophisticated customer to customize the JET BELT® buckle with elegant designs and superior materials - this is the challenge that JET BELT® and Kevin Barnes aim to meet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Zur Auswahl stehen Eisen, Edelstahl, Silber, Gold und auch Platin.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191028T132009Z" creationid="samuel" creationdate="20191028T123151Z">
+        <seg>iron, stainless steel, silver, gold, and even platinum.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

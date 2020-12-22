@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.1.0_0_54fc30ee9" segtype="sentence" srclang="de-DE"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Beschreibung:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191220T110107Z" creationid="samuel" creationdate="20191220T110107Z">
+        <seg>Description:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Bestellen Sie Ihr Modell jetzt bei uns im Shop: https://jetbelt.de/shop/</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191220T112223Z" creationid="samuel" creationdate="20191220T112223Z">
+        <seg>Find your JET BELT® today: https://jetbelt.de/shop/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Dann ist der JET BELT® genau der richtige Gürtel für Sie.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191220T112452Z" creationid="samuel" creationdate="20191220T112452Z">
+        <seg>Then the JET BELT® is exactly the right belt for you.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Das muss nicht sein!</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191220T110351Z" creationid="samuel" creationdate="20191220T110351Z">
+        <seg>Banish those demons forever - </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Der Gedanke an ewiges Rumgefummle am Gürtel treibt Ihnen den Schweiß auf die Stirn?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191220T110304Z" creationid="samuel" creationdate="20191220T105942Z">
+        <seg>The mere thought of fiddling and fumbling with your belt causes you to sweat profusely?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Der JET BELT® ist nicht einfach nur ein langweiliges 08/15 Accessoire – es ist ein Fashion Statement mit starkem Charakter.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191220T113605Z" creationid="samuel" creationdate="20191220T112118Z">
+        <seg>The JET BELT® is anything but a boring, run-of-the-mill accessory, nor merely a fashion statement - it is your fashion statement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die einzigartige Gürtelschnalle in Safety Belt Optik lasst sich mit 2 Handgriffen in Sekundenschnelle abnehmen.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191220T112811Z" creationid="samuel" creationdate="20191220T110902Z">
+        <seg>Remove the unique belt buckle with safety belt technology in only two clicks - quickly and effortlessly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die stufenlose Verstellbarkeit der Gürtellänge sorgt für einen 100% perfekten Sitz bei jedem Ihrer Outfits.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191220T112830Z" creationid="samuel" creationdate="20191220T111320Z">
+        <seg>loosen or tighten the seamlessly adjustable length of the belt for a tailor-made fit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>JET BELT® präsentiert: Schnell und stilsicher durch die Sicherheitskontrolle am Flughafen</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191220T110050Z" creationid="samuel" creationdate="20191220T110050Z">
+        <seg>JET BELT® presents: Surviving security - quickly and stylishly</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Jeder Gürtel aus dem Hause JET BELT® ist ein Unikat.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191220T111521Z" creationid="samuel" creationdate="20191220T111521Z">
+        <seg>Each JET BELT® is one of a kind - just as you are.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Lassen Sie sich von hochwertigem Kernleder oder fein gewebtem Nylon sowie einem im Zink-Druckgussverfahren gefertigten Premium-Verschluss begeistern.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191220T113258Z" creationid="samuel" creationdate="20191220T111028Z">
+        <seg>Let the high-grade cowhide leather or finely woven nylon as well the premium die-cast zinc buckle enthrall you;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Mit dem JET BELT® Gürtel – cooles Travel Gadget &amp; Fashion IT Piece zugleich - kommen Sie garantiert ohne Stress zum Flieger.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191220T110533Z" creationid="samuel" creationdate="20191220T110533Z">
+        <seg>with the JET BELT®! This trendy travel gadget and fashion IT piece will ensure a no-stress airport experience.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Sie verbinden den Gedanken an das Passieren der Sicherheitskontrolle am Flughafen mit Stress?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191220T112639Z" creationid="samuel" creationdate="20191220T110253Z">
+        <seg>Do the words "airport security" make you recall stressful memories?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Sind Sie ein moderner Mann, der höchste Qualität, zeitloses Design und kompromisslose Einzigartigkeit zu schätzen weiß?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191220T111751Z" creationid="samuel" creationdate="20191220T111744Z">
+        <seg>Do you value superior quality, timeless design, and uniqueness sans compromises?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Sportlich, aber elegant – dezent, und doch präsent.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191220T112144Z" creationid="samuel" creationdate="20191220T112132Z">
+        <seg>Powerful, yet elegant - subtle, but ever-present.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Titel:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191220T110113Z" creationid="samuel" creationdate="20191220T110113Z">
+        <seg>Title:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>„Handmade in Germany“ ist unser Versprechen, um Ihnen nur die höchste Qualität und feinste Präzision bei der Verarbeitung garantieren zu können.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191220T113512Z" creationid="samuel" creationdate="20191220T111445Z">
+        <seg>Trust in our quality guarantee: each belt is handmade in Germany to guarantee incredibly high quality and precision for each and every belt.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

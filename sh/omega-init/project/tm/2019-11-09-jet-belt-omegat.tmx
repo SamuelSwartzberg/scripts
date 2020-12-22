@@ -1,0 +1,2289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.0.0_0_c63a9b8dc" segtype="sentence" srclang="de-DE"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="de-DE">
+        <seg>(*) Unzutreffendes streichen.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191109T170425Z" creationid="samuel" creationdate="20191109T170425Z">
+        <seg>(*) Delete as applicable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>(Wenn Sie den Vertrag widerrufen wollen, dann füllen Sie bitte dieses Formular aus und senden Sie es zurück.)</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191109T165239Z" creationid="samuel" creationdate="20191109T165239Z">
+        <seg>Should you want to revoke the contract, please fill in the following form and send it back. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>(www.google.de).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T114456Z" creationid="samuel" creationdate="20191110T114456Z">
+        <seg>(www.google.de)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>********************************************************************</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T135758Z" creationid="samuel" creationdate="20191110T135758Z">
+        <seg>********************************************************************</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>1. Geltungsbereich</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191109T003652Z" creationid="samuel" creationdate="20191109T003652Z">
+        <seg>1. Area of purview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>1. Zugriffsdaten und Hosting</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191109T171009Z" creationid="samuel" creationdate="20191109T171009Z">
+        <seg>1. Access Information and Hosting</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>14 Abs. 1 ODR-VO und § 36 VSBG:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T141606Z" creationid="samuel" creationdate="20191110T141606Z">
+        <seg>14(1) ODR-VO and § 36 VSBG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>15 DSGVO das Recht, in dem dort bezeichneten Umfang Auskunft über Ihre von uns verarbeiteten personenbezogenen Daten zu verlangen;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T133335Z" creationid="samuel" creationdate="20191110T133229Z">
+        <seg>15 GDPR the right to request information on your personal data processed by us to the extent specified therein;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>16 DSGVO das Recht, unverzüglich die Berichtigung unrichtiger oder Vervollständigung Ihrer bei uns gespeicherten personenbezogenen Daten zu verlangen;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T133434Z" creationid="samuel" creationdate="20191110T133333Z">
+        <seg>16 GDPR the right to demand the immediate rectification of incorrect or incomplete personal data stored by us;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>17 DSGVO das Recht, die Löschung Ihrer bei uns gespeicherten personenbezogenen Daten zu verlangen, soweit nicht die weitere Verarbeitung</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T001348Z" creationid="samuel" creationdate="20191110T133558Z">
+        <seg>17 GDPR the right to demand the deletion of your personal data stored by us, unless the further processing of your personal data is necessary </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>18 DSGVO das Recht, die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen, soweit</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T122646Z" creationid="samuel" creationdate="20191110T133800Z">
+        <seg>18 GDPR the right to demand the restriction of processing of your personal data stored by us, in cases in which one of the following applies:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>2. Datenerhebung und -verwendung zur Vertragsabwicklung, Kontaktaufnahme</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T121326Z" creationid="samuel" creationdate="20191109T204615Z">
+        <seg>2. Collection and use of data for the execution of the contract, contacting</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>2. Vertragspartner, Vertragsschluss</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T115333Z" creationid="samuel" creationdate="20191109T004646Z">
+        <seg>2. Contracting parties, conclusion of contract</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>20 DSGVO das Recht, Ihre personenbezogenen Daten, die Sie uns bereitgestellt haben, in einem strukturierten, gängigen und maschinenlesebaren Format zu erhalten oder die Übermittlung an einen anderen Verantwortlichen zu verlangen;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T134253Z" creationid="samuel" creationdate="20191110T134253Z">
+        <seg>20 GDPR the right to receive your personal data which you have provided to us, in a structured, commonly used and machine-readable format or to demand the transmission to another controller;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>21 DSGVO Widerspruch gegen die Verarbeitung eingelegt haben;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T134144Z" creationid="samuel" creationdate="20191110T134144Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>26 DSGVO, die Sie hier einsehen können:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T131734Z" creationid="samuel" creationdate="20191110T131734Z">
+        <seg>26 GDPR, which is available here:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>26 DSGVO, die Sie hier einsehen können.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T114219Z" creationid="samuel" creationdate="20191110T114206Z">
+        <seg>26 GDPR, available here.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>3. Datenweitergabe</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T121630Z" creationid="samuel" creationdate="20191109T235829Z">
+        <seg>3. Transfer of data</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>3. Vertragssprache, Vertragstextspeicherung</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191109T145126Z" creationid="samuel" creationdate="20191109T145126Z">
+        <seg>3. Language of contract, storing of contract</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>4. Cookies und Webanalyse</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T121711Z" creationid="samuel" creationdate="20191110T001440Z">
+        <seg>4. Cookies and web analytics</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>4. Lieferbedingungen</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T115345Z" creationid="samuel" creationdate="20191109T145601Z">
+        <seg>4. Terms of delivery</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>5. Bezahlung</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191109T145907Z" creationid="samuel" creationdate="20191109T145907Z">
+        <seg>5. Payment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>5. Online-Marketing</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T014608Z" creationid="samuel" creationdate="20191110T014508Z">
+        <seg>5. Online Marketing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>6 Abs. 1 S. 1 lit.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191109T204724Z" creationid="samuel" creationdate="20191109T202243Z">
+        <seg>Article 6(1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>6 Abs. 1 lit.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T020352Z" creationid="samuel" creationdate="20191110T020352Z">
+        <seg>Article 6(1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>6. Eigentumsvorbehalt</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T115938Z" creationid="samuel" creationdate="20191109T151831Z">
+        <seg>6. Retention of title</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>6. Social Media PlugIns</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T122236Z" creationid="samuel" creationdate="20191110T121031Z">
+        <seg>6. Social media plug-ins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>7. Gewährleistung und Garantien</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T120035Z" creationid="samuel" creationdate="20191109T152153Z">
+        <seg>7. Statutory and additional warranties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>7. Versand von Bewertungserinnerungen per E-Mail</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T132532Z" creationid="samuel" creationdate="20191110T132532Z">
+        <seg>7. Review Requests via Email</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>77 DSGVO das Recht, sich bei einer Aufsichtsbehörde zu beschweren.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T134328Z" creationid="samuel" creationdate="20191110T134328Z">
+        <seg>77 GDPR the right to lodge a complaint with a supervisory authority.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>8. Kontaktmöglichkeiten und Ihre Rechte</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T132934Z" creationid="samuel" creationdate="20191110T132934Z">
+        <seg>8. Contact Addresses and Your Rights</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>8. Streitbeilegung</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T120047Z" creationid="samuel" creationdate="20191109T155150Z">
+        <seg>8. Dispute resolution</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>80469</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191109T160410Z" creationid="samuel" creationdate="20191109T160410Z">
+        <seg>80469</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>80489</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191109T163551Z" creationid="samuel" creationdate="20191109T163551Z">
+        <seg>80469</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>AGB (General Terms &amp; Conditions)</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T115320Z" creationid="samuel" creationdate="20191109T003604Z">
+        <seg>Terms &amp; conditions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Alle Daten, die im Rahmen der Nutzung dieser Webseite oder in dafür vorgesehenen Formularen im Onlineshop wie folgend beschrieben erhoben werden, werden auf seinen Servern verarbeitet.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T121257Z" creationid="samuel" creationdate="20191109T203546Z">
+        <seg>All data gathered in the course of using the site or entered in the designated forms in the online store in the manner described in the following passages is stored on the hosting provider's servers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Alle Zugriffsdaten werden spätestens sieben Tage nach Ende Ihres Seitenbesuchs gelöscht.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191109T202811Z" creationid="samuel" creationdate="20191109T202811Z">
+        <seg>All access information will be deleted in the course of seven days.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Allgemeine Geschäftsbedingungen</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191109T003617Z" creationid="samuel" creationdate="20191109T003617Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Als Betroffener haben Sie folgende Rechte:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T133001Z" creationid="samuel" creationdate="20191110T133001Z">
+        <seg>As a data subject, you have the following rights:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Alternativ zum Browser-Plugin können Sie diesen Link klicken, um die Erfassung durch Google Analytics auf dieser Website zukünftig zu verhindern.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T014255Z" creationid="samuel" creationdate="20191110T014230Z">
+        <seg>As an alternative to this add-on, you can also click this link to prevent Google Analytics from gathering future data on this website. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Alternative Streitbeilegung gemäß Art.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T120057Z" creationid="samuel" creationdate="20191110T141505Z">
+        <seg>Alternative dispute resolution in accordance with Article</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Andere Cookies verbleiben auf Ihrem Endgerät und ermöglichen uns, Ihren Browser beim nächsten Besuch wiederzuerkennen (persistente Cookies).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T121846Z" creationid="samuel" creationdate="20191110T002054Z">
+        <seg>Other cookies remain on your device and allow us to recognize your browser on your next visit (persistent cookies).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Auf dieser Webseite ist der Script Code „Google Fonts“ eingebunden.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T120447Z" creationid="samuel" creationdate="20191110T120447Z">
+        <seg>This website uses Google Fonts and its associated scripts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Auf dieser Webseite werden Inhalte dritter Anbieter eingebunden.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T125053Z" creationid="samuel" creationdate="20191110T125053Z">
+        <seg>This website includes content by third parties.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Auf unserer Website werden sogenannte Social Plugins („Plugins“) von sozialen Netzwerken verwendet.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T122358Z" creationid="samuel" creationdate="20191110T122358Z">
+        <seg>Our website includes so-called social plug-ins ("plug-ins") provided by social networks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Aufgrund dieses Abkommens zwischen den USA und der Europäischen Kommission hat letztere für unter dem Privacy Shield zertifizierte Unternehmen ein angemessenes Datenschutzniveau festgestellt.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T013856Z" creationid="samuel" creationdate="20191110T013856Z">
+        <seg>The European Commission has judged corporations certified to be in accordance with the Privacy Shield to provide an adequate level of data protection.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Aus diesen Daten werden unter Verwendung von Pseudonymen sog. Nutzungsprofile erstellt.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T001228Z" creationid="samuel" creationdate="20191110T130408Z">
+        <seg>From these data, pseudonymized so-called user profiles are created.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Bei Auswahl der Zahlungsart Vorkasse nennen wir Ihnen unsere Bankverbindung in separater E-Mail und liefern die Ware nach Zahlungseingang.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191109T150351Z" creationid="samuel" creationdate="20191109T150315Z">
+        <seg>Should you select this method of payment, we will send you an email containing our bank details and dispatch the products after receipt of payment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Bei Fragen zur Erhebung, Verarbeitung oder Nutzung Ihrer personenbezogenen Daten, bei Auskünften, Berichtigung, Einschränkung oder Löschung von Daten sowie Widerruf erteilter Einwilligungen oder Widerspruch gegen eine bestimmte Datenverwendung wenden Sie sich bitte direkt an uns über die Kontaktdaten in unserem Impressum.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T122715Z" creationid="samuel" creationdate="20191110T135751Z">
+        <seg>If you have any questions regarding the collection, processing or use of your personal data; for disclosure, correction, restriction or deletion of data as well as either revocation of consent given or objection to any particular use of your data, please contact us directly via the contact data to be found in our legal notice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Bei Videos von Youtube, die auf unserer Seite eingebunden sind, ist die erweiterte Datenschutzeinstellung aktiviert.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T125556Z" creationid="samuel" creationdate="20191110T125556Z">
+        <seg>For any YouTube embedded in our site, we have enabled the privacy-enhanced mode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Bei dem Besuch unserer Onlinepräsenzen in sozialen Medien können Ihre Daten für Marktforschungs- und Werbezwecke automatisch erhoben und gespeichert werden.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T130258Z" creationid="samuel" creationdate="20191110T130258Z">
+        <seg>When you visit our social media pages, your data may be automatically collected and stored for market research and advertising purposes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Bei der Nichtannahme von Cookies kann die Funktionalität unserer Website eingeschränkt sein.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T003118Z" creationid="samuel" creationdate="20191110T003118Z">
+        <seg>Should you decide not to accept cookies, the functionality of our website may be limited.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Bei der Verwendung von Google Maps werden von Google Daten über die Nutzung der Maps-Funktionen durch Webseitenbesucher übermittelt bzw. verarbeitet, wozu insbesondere die IP-Adresse sowie Standortdaten gehören können.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T113603Z" creationid="samuel" creationdate="20191110T113603Z">
+        <seg>By and while using Google Maps, Google transmits and processes data on how website visitors use Google Maps, which may include your IP address and location data.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Bei jedem Aufruf einer Webseite speichert der Webserver lediglich automatisch ein sogenanntes Server-Logfile, das z.B. den Namen der angeforderten Datei, Ihre IP-Adresse, Datum und Uhrzeit des Abrufs, übertragene Datenmenge und den anfragenden Provider (Zugriffsdaten) enthält und den Abruf dokumentiert.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T121134Z" creationid="samuel" creationdate="20191109T171558Z">
+        <seg>In the course of accessing a web page, the server will only save a so-called server logfile, with this including for example the name of the requested file, your IP address, the date and time of the request, the amount of transmitted data and the provider making the request (access information), and, as well, the documentation of the access.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Bitte beachten Sie, dass dies die Funktionalität unseres Webangebots für Ihre Nutzung einschränken kann.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T120242Z" creationid="samuel" creationdate="20191110T120242Z">
+        <seg>In this case, the functionality of our website may be limited.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Chrome™: https://support.google.com/chrome/answer/95647?hl=de&amp;hlrm=en</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T003039Z" creationid="samuel" creationdate="20191110T003039Z">
+        <seg>Chrome™: https://support.google.com/chrome/answer/95647?hl=en&amp;hlrm=en</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Dabei wird ein Opt-Out-Cookie auf Ihrem Endgerät abgelegt.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T142935Z" creationid="samuel" creationdate="20191110T014316Z">
+        <seg>For this purpose, an opt-out cookie is saved on your device.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Daneben können Sie sich bei der Digital Advertising Alliance über das Setzen von Cookies informieren und Einstellungen hierzu vornehmen.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T112837Z" creationid="samuel" creationdate="20191110T112837Z">
+        <seg>Furthermore, you can also visit the website of the Digital Advertising Alliance to find out about the use of cookies and to configure your settings.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Daneben werden andere, durch Google Dienste in Ihrem Browser gespeicherte Cookies durch Google reCAPTCHA ausgewertet.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T115821Z" creationid="samuel" creationdate="20191110T115821Z">
+        <seg>Furthermore, other cookies, saved in the course of using various Google services, may also be analyzed by Google reCAPTCHA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Dann werden wir Ihre personenbezogenen Daten nicht weiter zu diesem Zweck verarbeiten. ********************************************************************</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T140815Z" creationid="samuel" creationdate="20191110T140815Z">
+        <seg>In this case we shall not process your personal data for this purpose any further. ********************************************************************</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Das bedeutet, dass keine Informationen von Webseitenbesuchern bei Youtube erhoben und gespeichert werden, es sei denn, diese spielen das Video ab.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T125638Z" creationid="samuel" creationdate="20191110T125638Z">
+        <seg>Therefore, YouTube does not collect any information on website visitors, unless they should choose to play the video.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Datenschutzerklärung (Privacy Policy)</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T121016Z" creationid="samuel" creationdate="20191109T163631Z">
+        <seg>Privacy policy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Dazu werden Ihre personenbezogenen Daten von Google vorübergehend mit Google Analytics-Daten verknüpft, um Zielgruppen zu bilden.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T112538Z" creationid="samuel" creationdate="20191110T112538Z">
+        <seg>To this aim, Google will temporarily link your personal data with Google Analytics data in order to form target groups.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Dazu wird bei Besuch unserer Website das sog. Remarketing Cookie von Google gesetzt, das automatisch mittels einer pseudonymen CookieID und auf Grundlage der von Ihnen besuchten Seiten eine interessenbasierte Werbung ermöglicht.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T020046Z" creationid="samuel" creationdate="20191110T020046Z">
+        <seg>For this purpose, on visiting our website the so-called Google remarketing-cookie is set, which enables interest-based advertising on the basis of the pages you visit by means of a pseudonymous CookieID.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Den Vertragstext können Sie in unserem Kunden-Login einsehen.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T115832Z" creationid="samuel" creationdate="20191109T145527Z">
+        <seg>You can access the contract via your customer login.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Der Inhalt des Plugins wird vom jeweiligen Anbieter direkt an Ihren Browser übermittelt und in die Seite eingebunden.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T122825Z" creationid="samuel" creationdate="20191110T122825Z">
+        <seg>The social network transmits the contents of the plug-in directly to your browser, where it is integrated into the site.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Der Kaufvertrag kommt zustande mit JET BELT e.Kfm..</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T115454Z" creationid="samuel" creationdate="20191109T004941Z">
+        <seg>The sales contract is entered into with JET BELT® e.Kfm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Der Schutz Ihrer Privatsphäre ist für uns sehr wichtig.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191109T170641Z" creationid="samuel" creationdate="20191109T170635Z">
+        <seg>We value your privacy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Der Webanalysedienst ist ein Angebot der Google Ireland Limited, einer nach irischem Recht eingetragenen und betriebenen Gesellschaft mit Sitz in Gordon House, Barrow Street, Dublin 4, Irland (www.google.de).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T000319Z" creationid="samuel" creationdate="20191110T010728Z">
+        <seg>This web analytics service is provided by Google Ireland Limited, a corporation incorporated and operating under Irish law, with its registered office at Gordon House, Barrow Street, Dublin 4, Ireland. (www.google.de)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Deutschland</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191109T001505Z" creationid="samuel" creationdate="20191109T001505Z">
+        <seg>Germany</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die Bestätigung des Zugangs Ihrer Bestellung erfolgt per E-Mail unmittelbar nach dem Absenden der Bestellung.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191109T143015Z" creationid="samuel" creationdate="20191109T142959Z">
+        <seg>You will receive an email confirming the receipt of your order immediately after placing it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die Darstellung der Produkte im Online-Shop stellt kein rechtlich bindendes Angebot, sondern einen unverbindlichen Online-Katalog dar.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T115536Z" creationid="samuel" creationdate="20191109T005415Z">
+        <seg>The fact of the displaying of our products in our online shop does not constitute a legally binding offer. It is rather part of a non-binding online catalog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die Datenverarbeitung erfolgt auf Grundlage einer Vereinbarung zwischen gemeinsam Verantwortlichen gemäß Art.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T114412Z" creationid="samuel" creationdate="20191110T114118Z">
+        <seg>Data is processed on the basis of an agreement between joint controllers in accordance with Article </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die Dauer der Speicherung können Sie der Übersicht in den Cookie-Einstellungen Ihres Webbrowsers entnehmen.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T000217Z" creationid="samuel" creationdate="20191110T002141Z">
+        <seg>The length of storage can be reviewed in the overview window of the cookie settings of your web browser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die Einbindung der Videos dient der Wahrung unserer im Rahmen einer Interessensabwägung überwiegenden berechtigten Interessen an einer optimalen Vermarktung unseres Angebots gemäß Art.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T122324Z" creationid="samuel" creationdate="20191110T125659Z">
+        <seg>Embedding videos serves to ensure our - in the course of weighing the various interests prevailing - legitimate interest in the optimal marketing of our products in accordance with</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit, die Sie hier finden https://ec.europa.eu/consumers/odr/.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191109T002714Z" creationid="samuel" creationdate="20191109T002714Z">
+        <seg>The European Commission provides a platform for online dispute resolution, which is available here: https://ec.europa.eu/consumers/odr/ </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit, die du unter https://ec.europa.eu/consumers/odr findest.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191109T003550Z" creationid="samuel" creationdate="20191109T003550Z">
+        <seg>The European Commission provides a platform for online dispute resolution, which is available here: https://ec.europa.eu/consumers/odr/ </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die Frist ist gewahrt, wenn Sie die Waren vor Ablauf der Frist von vierzehn Tagen absenden.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T120902Z" creationid="samuel" creationdate="20191109T164458Z">
+        <seg>The deadline shall be deemed to have been met should the products be posted before expiry of the deadline.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die Informationen werden außerdem in dem sozialen Netzwerk veröffentlicht und dort Ihren Kontakten angezeigt.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T124011Z" creationid="samuel" creationdate="20191110T124011Z">
+        <seg>This information is also published on the social network, where it will be visible to your contacts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die Löschung Ihres Kundenkontos ist jederzeit möglich und kann entweder durch eine Nachricht an die unten beschriebene Kontaktmöglichkeit oder über eine dafür vorgesehene Funktion im Kundenkonto erfolgen.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191109T235822Z" creationid="samuel" creationdate="20191109T211219Z">
+        <seg>You may delete your account at any time either by sending a message to the contact address found below or via the designated function within your customer account.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die Nutzungsbedingungen für Google Maps beinhalten detaillierte Informationen zum Kartendienst.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T114050Z" creationid="samuel" creationdate="20191110T114050Z">
+        <seg>More on Google Maps can be found in its terms of use.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die Ware bleibt bis zur vollständigen Bezahlung unser Eigentum.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191109T151940Z" creationid="samuel" creationdate="20191109T151940Z">
+        <seg>The product remains our property until the payment has been completed in full.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die Widerrufsfrist beträgt vierzehn Tage ab dem Tag, an dem Sie oder ein von Ihnen benannter Dritter, der nicht der Beförderer ist, die Waren in Besitz genommen haben bzw. hat.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T120123Z" creationid="samuel" creationdate="20191109T155615Z">
+        <seg>The revocation period begins upon the receipt of the products by you or a third party specified by you (with exception of the carrier) and ends 14 days from that point of time.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die Zahlungstransaktion wird durch PayPal unmittelbar danach automatisch durchgeführt.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191109T151038Z" creationid="samuel" creationdate="20191109T151038Z">
+        <seg>PayPal processes the transaction automatically and carries it out.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die Zahlungstransaktion wird durch das Kreditkartenunternehmen automatisch durchgeführt und Ihre Karte belastet.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191109T150650Z" creationid="samuel" creationdate="20191109T150502Z">
+        <seg>The credit card company processes the transaction automatically and debits your credit card.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die automatisch erhobenen Informationen über Ihre Benutzung dieser Website einschließlich Ihrer IP Adresse werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T115555Z" creationid="samuel" creationdate="20191110T115555Z">
+        <seg>The automatically gathered data on your use of this website, including your IP address, is usually transmitted to a Google server in the US and stored there.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die automatisch erhobenen Informationen über Ihre Benutzung dieser Website werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T013146Z" creationid="samuel" creationdate="20191110T011350Z">
+        <seg>The automatically gathered data on your use of this website is usually transmitted to a Google server in the US and stored there.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die detaillierten Informationen zur Verarbeitung und Nutzung der Daten durch die Anbieter auf deren Seiten sowie eine Kontaktmöglichkeit und Ihre diesbezüglichen Rechte und Einstellungsmöglichkeiten zum Schutz Ihrer Privatsphäre, insbesondere Widerspruchsmöglichkeiten (Opt-Out), entnehmen Sie bitte den unten verlinkten Datenschutzhinweisen der Anbieter.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T131629Z" creationid="samuel" creationdate="20191110T131629Z">
+        <seg>Find detailed information on further processing and utilization of your data by the relevant provider on their sites, together with the respective contact addresses, settings and your rights to privacy protection, including opt-out options, in the privacy policies of the respective providers:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die für den Vertragsschluss zur Verfügung stehenden Sprachen sind Deutsch und Englisch.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T115800Z" creationid="samuel" creationdate="20191109T145146Z">
+        <seg>The contract can be concluded either in German or English.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die im Rahmen von Google Analytics von Ihrem Browser übermittelte anonymisierte IP-Adresse wird grundsätzlich nicht mit anderen Daten von Google zusammengeführt.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T012358Z" creationid="samuel" creationdate="20191110T012350Z">
+        <seg>The anonymized IP address transmitted by your browser as part of Google Analytics data is never merged with other Google data.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Dies dient der Wahrung unserer im Rahmen einer Interessensabwägung überwiegenden berechtigten Interessen an einer einheitlichen Darstellung der Inhalte auf unserer Webseite gemäß Art.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T120607Z" creationid="samuel" creationdate="20191110T120547Z">
+        <seg>This serves to ensure our - in the course of weighing the various interests prevailing - legitimate interest for a consistent and uniform presentation of our website in accordance with</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Dies dient der Wahrung unserer im Rahmen einer Interessensabwägung überwiegenden berechtigten Interessen an einer korrekten Darstellung unseres Angebots.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T121243Z" creationid="samuel" creationdate="20191109T203346Z">
+        <seg>This serves to ensure our - in the course of weighing the various interests prevailing - legitimate interest in the correct displaying of our products and our site.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Dies dient der Wahrung unserer im Rahmen einer Interessensabwägung überwiegenden berechtigten Interessen an einer optimalen Vermarktung unserer Webseite gemäß Art.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T122100Z" creationid="samuel" creationdate="20191110T020135Z">
+        <seg>This serves to ensure our - in the course of weighing the various interests prevailing - legitimate interest in the optimal marketing of our website in accordance with</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Dies dient der Wahrung unserer im Rahmen einer Interessensabwägung überwiegenden berechtigten Interessen an einer optimalen Vermarktung unseres Angebots gemäß Art.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T124026Z" creationid="samuel" creationdate="20191110T124026Z">
+        <seg>This serves to ensure our - in the course of weighing the various interests prevailing - legitimate interest for the optimal marketing of our products in accordance with</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Dies dient der Wahrung unserer im Rahmen einer Interessensabwägung überwiegenden berechtigten Interessen an einer optimierten Darstellung unseres Angebots gemäß Art.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T121807Z" creationid="samuel" creationdate="20191110T001703Z">
+        <seg>This serves to ensure our - in the course of weighing the various interests prevailing - legitimate interest in the optimized displaying of our products and of our website in accordance with</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Dies dient der Wahrung unserer im Rahmen einer Interessensabwägung überwiegenden berechtigten Interessen an einer optimierten Darstellung unseres Angebots sowie einer leichten Erreichbarkeit unserer Standorte gemäß Art.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T122155Z" creationid="samuel" creationdate="20191110T020347Z">
+        <seg>This serves to ensure our - in the course of weighing the various interests prevailing - legitimate interest in the optimized displaying of our products and our site as well as easy accessibility in accordance with</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Dies dient gem. Art.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T001236Z" creationid="samuel" creationdate="20191110T130809Z">
+        <seg>This serves, in accordance with</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Dies dient gemäß Art.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T235624Z" creationid="samuel" creationdate="20191109T201849Z">
+        <seg>This serves, in accordance with</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Dies gilt nicht, wenn die Verarbeitung zu Zwecken des Direktmarketings erfolgt.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T140734Z" creationid="samuel" creationdate="20191110T140734Z">
+        <seg>The above shall not apply if the processing is carried out for the purposes of direct marketing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Diese Einwilligung kann jederzeit durch eine Nachricht an die unten beschriebene Kontaktmöglichkeit widerrufen werden.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T132912Z" creationid="samuel" creationdate="20191110T132912Z">
+        <seg>This consent can be revoked at any time by sending a message to the contact address given below.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Diese Information (einschließlich Ihrer IP-Adresse) wird von Ihrem Browser direkt an einen Server des jeweiligen Anbieters (ggf. in die USA) übermittelt und dort gespeichert.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T123450Z" creationid="samuel" creationdate="20191110T123450Z">
+        <seg>This information, including your IP address, is usually transmitted by your browser to the respective provider's server, possibly located in the US, and stored there.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Diese Inhalte werden von Google zur Verfügung gestellt („Anbieter“).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T125113Z" creationid="samuel" creationdate="20191110T125113Z">
+        <seg>This content is provided by Google ("provider").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Diese Website verwendet Google Maps zur visuellen Darstellung von geographischen Informationen.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T113059Z" creationid="samuel" creationdate="20191110T113059Z">
+        <seg>This website uses Google Maps to visually represent geographical information.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Diese Zugriffsdaten werden ausschließlich zum Zwecke der Sicherstellung eines störungsfreien Betriebs der Seite sowie der Verbesserung unseres Angebots ausgewertet.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T121207Z" creationid="samuel" creationdate="20191109T171819Z">
+        <seg>This data is employed for the sole purpose of ensuring the smooth operation of the site as well as its improvement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Diese finden Sie für die jeweiligen Browser unter den folgenden Links:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T002607Z" creationid="samuel" creationdate="20191110T002607Z">
+        <seg>which you can find here:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Diese ist in dem Hilfemenü jedes Browsers beschrieben, welches Ihnen erläutert, wie Sie Ihre Cookie-Einstellungen ändern können.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T121944Z" creationid="samuel" creationdate="20191110T002556Z">
+        <seg>The relevant help site of your browser explains how you can change your cookie settings.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Diese können verwendet werden, um z.B. Werbeanzeigen innerhalb und außerhalb der Plattformen zu schalten, die mutmaßlich Ihren Interessen entsprechen.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T130557Z" creationid="samuel" creationdate="20191110T130557Z">
+        <seg>These may be used to advertise on and off the platform in a way that is believed to match your interests.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Dieser Dienstleister sitzt innerhalb eines Landes der Europäischen Union oder des Europäischen Wirtschaftsraums.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191109T204333Z" creationid="samuel" creationdate="20191109T204333Z">
+        <seg>This service provider is located in a country within the European Union or European Economic Area.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Dieser geht zurück auf den EU-US Privacy Shield.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T131402Z" creationid="samuel" creationdate="20191110T131402Z">
+        <seg>This decision is based on the EU-US-Privacy Shield.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Dort können Sie Ihre Zahlungsdaten angeben und die Zahlungsanweisung an PayPal bestätigen.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T115721Z" creationid="samuel" creationdate="20191109T144637Z">
+        <seg>where you will provide your payment details and confirm the payment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Dreimühlenstrasse 30</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191109T001435Z" creationid="samuel" creationdate="20191109T001435Z">
+        <seg>Dreimühlenstraße 30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Durch Anklicken des Bestellbuttons geben Sie eine verbindliche Bestellung der im Warenkorb enthaltenen Waren ab.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T115546Z" creationid="samuel" creationdate="20191109T142757Z">
+        <seg>By clicking the 'order' button, you submit a binding order for all products in the shopping cart.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Durch die Aktivierung der IP-Anonymisierung auf dieser Webseite wird dabei die IP-Adresse vor der Übermittlung innerhalb der Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum gekürzt.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T142854Z" creationid="samuel" creationdate="20191110T011844Z">
+        <seg>Since IP anonymization is active on this web site, the IP address is shortened within a member state of the European Union or in another contracting state of the Agreement on the European Economic Area before transmission.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Durch die Einbindung der Plugins erhalten die Anbieter die Information, dass Ihr Browser die entsprechende Seite unseres Webauftritts aufgerufen hat, auch wenn Sie kein Profil besitzen oder gerade nicht eingeloggt sind.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T123252Z" creationid="samuel" creationdate="20191110T123252Z">
+        <seg>These plug-ins inform the respective provider which web page your browser just accessed, even if you do not have an account with the respective provider, or are not logged in.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Durch die Überprüfung einer manuellen Eingabe verhindert dieser Dienst, dass automatisierte Software (sog. Bots) missbräuchliche Aktivitäten auf der Website ausführt.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T114944Z" creationid="samuel" creationdate="20191110T114944Z">
+        <seg>By checking manual data entries, this service prevents automated software (so-called bots) from carrying out malicious activities on our website.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>E-Mail: felger@jetbelt.de</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191109T001705Z" creationid="samuel" creationdate="20191109T001705Z">
+        <seg>Email: felger@jetbelt.de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ein Auslesen oder Speichern von personenbezogenen Daten aus den Eingabefeldern des jeweiligen Formulars findet nicht statt.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T115912Z" creationid="samuel" creationdate="20191110T115912Z">
+        <seg>Data from the input fields of the respective forms is not read or stored.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ein aktuelles Zertifikat für das jeweilige Unternehmen kann hier eingesehen werden.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T131426Z" creationid="samuel" creationdate="20191110T131426Z">
+        <seg>A certificate for the relevant provider is available here.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ein aktuelles Zertifikat kann hier eingesehen werden.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T013503Z" creationid="samuel" creationdate="20191110T013503Z">
+        <seg>A recent certificate is available here.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Eine Verarbeitung auf anderen Servern findet nur in dem hier erläuterten Rahmen statt.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191109T204055Z" creationid="samuel" creationdate="20191109T204055Z">
+        <seg>Data is only processed on other servers in the manner described here.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Eine darüber hinausgehende Datenverarbeitung findet nur statt, sofern Sie gegenüber Google zugestimmt haben, dass Ihr Web- und App-Browserverlauf von Google mit ihrem Google-Konto verknüpft wird und Informationen aus ihrem Google-Konto zum Personalisieren von Anzeigen verwendet werden, die sie im Web sehen.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T122140Z" creationid="samuel" creationdate="20191110T112047Z">
+        <seg>Any further data processing will only occur should you have consented to the linking of your Google web and mobile browser history with your Google account as well as to the use of information from your Google account for the personalization of web ads.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Einige der von uns verwendeten Cookies werden nach Ende der Browser-Sitzung, also nach Schließen Ihres Browsers, wieder gelöscht (sog. Sitzungs-Cookies).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T121837Z" creationid="samuel" creationdate="20191110T001926Z">
+        <seg>Some of these cookies are deleted at the end of your browser-session - that is, when you close your browser (so-called session cookies).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Einsatz von Google (Universal) Analytics zur Webanalyse</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T003350Z" creationid="samuel" creationdate="20191110T003350Z">
+        <seg>Use of Google (Universal) Analytics for Web Analytics</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Erfolgt die Verarbeitung zu Zwecken des Direktmarketings, können Sie dieses Recht jederzeit wie oben beschrieben ausüben.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T140254Z" creationid="samuel" creationdate="20191110T140254Z">
+        <seg>If the processing is carried out for direct marketing purposes, you may exercise this right at any time as described above.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Es gilt das gesetzliche Mängelhaftungsrecht.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191109T152323Z" creationid="samuel" creationdate="20191109T152323Z">
+        <seg>The statutory warranty shall apply. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Es gilt insoweit die Datenschutzerklärung des jeweiligen Zahlungsdienstleisters.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T000135Z" creationid="samuel" creationdate="20191110T001337Z">
+        <seg>To that extent, the privacy policy of the respective payment service provider will apply.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Facebook: https://www.facebook.com/about/privacy/</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T131722Z" creationid="samuel" creationdate="20191110T131722Z">
+        <seg>Facebook: https://www.facebook.com/about/privacy/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Facebook: https://www.facebook.com/settings?tab=ads</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T132037Z" creationid="samuel" creationdate="20191110T132037Z">
+        <seg>Facebook: https://www.facebook.com/settings?tab=ads</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Falls Sie von den jeweiligen Social-Media Plattformbetreibern um eine Einwilligung (Einverständnis) in die Datenverarbeitung gebeten werden, z.B. mit Hilfe einer Checkbox, ist die Rechtsgrundlage der Datenverarbeitung Art.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T131105Z" creationid="samuel" creationdate="20191110T131105Z">
+        <seg>Should the respective social media platform operators request your consent to data processing, e.g. by means of a checkbox, the legal grounds for data processing are</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Firefox™ https://support.mozilla.org/de/kb/cookies-erlauben-und-ablehnen</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T003043Z" creationid="samuel" creationdate="20191110T003043Z">
+        <seg>Firefox™: https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Folgen des Widerrufs</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T120247Z" creationid="samuel" creationdate="20191109T161914Z">
+        <seg>Effects of revocation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Für alle Bestellungen über unseren Online-Shop gelten die nachfolgenden AGB. Unser Online-Shop richtet sich ausschließlich an Verbraucher.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T142131Z" creationid="samuel" creationdate="20191109T003756Z">
+        <seg>All orders via our online shop fall under the purview of the following terms and conditions. Our online shop is intended exclusively for consumers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Für diese Rückzahlung verwenden wir dasselbe Zahlungsmittel, das Sie bei der ursprünglichen Transaktion eingesetzt haben, es sei denn, mit Ihnen wurde ausdrücklich etwas anderes vereinbart; in keinem Fall werden Ihnen wegen dieser Rückzahlung Entgelte berechnet.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T120315Z" creationid="samuel" creationdate="20191109T162837Z">
+        <seg>The payment will be refunded via the same payment method that was used for payment, except in the case that another way was explicitly agreed upon. On no account will we charge payment fees due to this refund.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Google Ads Remarketing</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T014622Z" creationid="samuel" creationdate="20191110T014622Z">
+        <seg>Google Ads Remarketing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Google Ads ist ein Angebot der Google Ireland Limited, einer nach irischem Recht eingetragenen und betriebenen Gesellschaft mit Sitz in Gordon House, Barrow Street, Dublin 4, Irland (www.google.de).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T020232Z" creationid="samuel" creationdate="20191110T020232Z">
+        <seg>Google Ads is provided by Google Ireland Limited, a corporation incorporated and operating under Irish law, with its registered office at Gordon House, Barrow Street, Dublin 4, Ireland. (www.google.de) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Google Analytics deaktivieren</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T014401Z" creationid="samuel" creationdate="20191110T014401Z">
+        <seg>Disable Google Analytics</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Google Fonts</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T122125Z" creationid="samuel" creationdate="20191110T122125Z">
+        <seg>Google Fonts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Google Fonts ist ein Angebot der Google Ireland Limited, einer nach irischem Recht eingetragenen und betriebenen Gesellschaft mit Sitz in Gordon House, Barrow Street, Dublin 4, Irland.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T120457Z" creationid="samuel" creationdate="20191110T120457Z">
+        <seg>Google Fonts is provided by Google Ireland Limited, a corporation incorporated and operating under Irish law, with its registered office at Gordon House, Barrow Street, Dublin 4, Ireland.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Google Maps</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T112857Z" creationid="samuel" creationdate="20191110T112857Z">
+        <seg>Google Maps</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Google Maps ist ein Angebot der Google Ireland Limited, einer nach irischem Recht eingetragenen und betriebenen Gesellschaft mit Sitz in Gordon House, Barrow Street, Dublin 4, Irland (www.google.de).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T113107Z" creationid="samuel" creationdate="20191110T113107Z">
+        <seg>Google Maps is provided by Google Ireland Limited, a corporation incorporated and operating under Irish law, with its registered office at Gordon House, Barrow Street, Dublin 4, Ireland. (www.google.de) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Google reCAPTCHA</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T114423Z" creationid="samuel" creationdate="20191110T114423Z">
+        <seg>Google reCAPTCHA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Google reCAPTCHA ist ein Angebot der Google Ireland Limited, einer nach irischem Recht eingetragenen und betriebenen Gesellschaft mit Sitz in Gordon House, Barrow Street, Dublin 4, Irland.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T114455Z" creationid="samuel" creationdate="20191110T114455Z">
+        <seg>Google reCAPTCHA is provided by Google Ireland Limited, a corporation incorporated and operating under Irish law, with its registered office at Gordon House, Barrow Street, Dublin 4, Ireland.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Google reCAPTCHA verwendet mittels eines in der Webseite eingebundenen Codes, einem sog. JavaScript, im Rahmen der Überprüfung Methoden, die eine Analyse der Benutzung der Website durch Sie ermöglichen, wie zum Beispiel Cookies.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T000828Z" creationid="samuel" creationdate="20191110T115523Z">
+        <seg>Google reCAPTCHA uses various methods, by means of a code embedded in the website (a so-called JavaScript), to analyze your use of this website, including cookies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Handelsregister: AG München, HRA 75001 AG München</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191109T001905Z" creationid="samuel" creationdate="20191109T001905Z">
+        <seg>Commercial Register: AG Munich, HRA 75001 AG Munich</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Hierdurch erlangt Google Kenntnis darüber, dass über Ihre IP-Adresse unsere Webseite aufgerufen wurde.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T120855Z" creationid="samuel" creationdate="20191110T120855Z">
+        <seg>This provides Google with the information that our website was accessed by a device with your IP address.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Hostingdienstleistungen durch einen Drittanbieter</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T121239Z" creationid="samuel" creationdate="20191109T202841Z">
+        <seg>Hosting services provided by a third party</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Im Bestellprozess werden Sie auf die Webseite des Online-Anbieters PayPal weitergeleitet.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T115725Z" creationid="samuel" creationdate="20191109T144443Z">
+        <seg>In the course of submitting your order, you will be forwarded to the PayPal website,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Im Rahmen einer Verarbeitung in unserem Auftrag erbringt ein Drittanbieter für uns die Dienste zum Hosting und zur Darstellung der Webseite.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191109T203323Z" creationid="samuel" creationdate="20191109T203323Z">
+        <seg>A third party provides the hosting and display services on our account.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Impressum (Legal Notice)</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191109T001025Z" creationid="samuel" creationdate="20191109T001025Z">
+        <seg>Legal Notice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>In der Regel können Sie sich hierfür an die Aufsichtsbehörde Ihres üblichen Aufenthaltsortes oder Arbeitsplatzes oder unseres Unternehmenssitzes wenden.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T134517Z" creationid="samuel" creationdate="20191110T134517Z">
+        <seg>Generally, you may contact the supervisory authority of your habitual residence, place of work, or our company headquarters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>In diesem Fall kann Google Maps nicht bzw. nur eingeschränkt genutzt werden.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T113853Z" creationid="samuel" creationdate="20191110T113853Z">
+        <seg>In this case, Google Maps may be limited or wholly unusable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>In diesem Fall müssen Sie sich im Bestellprozess mit Ihren Zugangsdaten bei dem Zahlungsdienstleister anmelden.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T142722Z" creationid="samuel" creationdate="20191110T001114Z">
+        <seg>In this case, you will have to log in with your login details in the course of ordering.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>In diesem Rahmen wird eine Verbindung zwischen dem von Ihnen verwendeten Browser und den Servern von Google hergestellt.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T120808Z" creationid="samuel" creationdate="20191110T120808Z">
+        <seg>As part of this process, a connection between your browser and Google's servers will be established.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>In diesen Cookies werden das Besucherverhalten und die Interessen der Nutzer gespeichert.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T130803Z" creationid="samuel" creationdate="20191110T130803Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>In unserem Shop stehen Ihnen grundsätzlich die folgenden Zahlungsarten zur Verfügung:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191109T150021Z" creationid="samuel" creationdate="20191109T150021Z">
+        <seg>We offer these methods of payment:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Informationen zu gegebenenfalls geltenden zusätzlichen Garantien und deren genaue Bedingungen finden Sie jeweils beim Produkt und auf besonderen Informationsseiten im Onlineshop.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T120043Z" creationid="samuel" creationdate="20191109T155100Z">
+        <seg>Any additional warranties and their corresponding terms (wherever applicable) can be found on the product page as well as on the dedicated info pages. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Inhaber: Andreas Felger</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191109T001415Z" creationid="samuel" creationdate="20191109T001415Z">
+        <seg>Owner: Andreas Felger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Internet Explorer™: https://support.microsoft.com/de-de/help/17442/windows-internet-explorer-delete-manage-cookies</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T003031Z" creationid="samuel" creationdate="20191110T003031Z">
+        <seg>Internet Explorer™: https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>JET BELT®</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191109T160418Z" creationid="samuel" creationdate="20191109T160418Z">
+        <seg>JET BELT®</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>JET BELT® Inh. Andreas Felger</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191109T163613Z" creationid="samuel" creationdate="20191109T163613Z">
+        <seg>JET BELT® Inh. Andreas Felger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Je nach dem, welchen Zahlungsdienstleister Sie im Bestellprozess auswählen, geben wir zur Abwicklung von Zahlungen die hierfür erhobenen Zahlungsdaten an das mit der Zahlung beauftragte Kreditinstitut und ggf. von uns beauftragte Zahlungsdienstleister weiter bzw. an den ausgewählten Zahlungsdienst.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T121707Z" creationid="samuel" creationdate="20191110T001011Z">
+        <seg>Depending on your choice of payment service provider, we will pass on the data gathered for the purposes of payment to the bank charged with payment, and, possibly, to any additional payment service providers engaged by us, or to payment service provider chosen by you. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Jeder Browser unterscheidet sich in der Art, wie er die Cookie-Einstellungen verwaltet.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T121935Z" creationid="samuel" creationdate="20191110T002458Z">
+        <seg>Each browser has its own ways of permitting management of cookie settings.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Kleinunternehmer gemäß § 19 UStG</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191109T002344Z" creationid="samuel" creationdate="20191109T002344Z">
+        <seg>Small-scale entrepreneur (Kleinunternehmer) in accordance with § 19 UStG </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Kreditkarte</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T115342Z" creationid="samuel" creationdate="20191109T143823Z">
+        <seg>Credit card</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Löschen Sie Ihre Cookies, müssen Sie den Link erneut klicken.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T014354Z" creationid="samuel" creationdate="20191110T014324Z">
+        <seg>Should you delete your cookies, you will have to re-add this cookie by clicking the link again.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Mit Abgabe der Bestellung übermitteln Sie uns gleichzeitig Ihre Kreditkartendaten.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T234950Z" creationid="samuel" creationdate="20191109T143920Z">
+        <seg>In the course of submitting your order, you will also submit your credit card details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Muster-Widerrufsformular</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T120938Z" creationid="samuel" creationdate="20191109T165132Z">
+        <seg>Model revocation form</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>München</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191109T001454Z" creationid="samuel" creationdate="20191109T001454Z">
+        <seg>Munich</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Nach Abgabe der Bestellung im Shop fordern wir PayPal zur Einleitung der Zahlungstransaktion auf und nehmen dadurch Ihr Angebot an.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T115741Z" creationid="samuel" creationdate="20191109T144712Z">
+        <seg>Upon your finalizing your order in the online shop, we will request PayPal to begin the payment transaction process, which constitutes our acceptance of your order.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Nach Abgabe der Bestellung im Shop fordern wir PayPal zur Einleitung der Zahlungstransaktion auf.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T115927Z" creationid="samuel" creationdate="20191109T150945Z">
+        <seg>After finalizing your order in the online shop, we will request for PayPal to begin the payment transaction process.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Nach Ausübung Ihres Widerspruchsrechts werden wir Ihre personenbezogenen Daten nicht weiter zu diesen Zwecken verarbeiten, es sei denn, wir können zwingende schutzwürdige Gründe für die Verarbeitung nachweisen, die Ihre Interessen, Rechte und Freiheiten überwiegen, oder wenn die Verarbeitung der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen dient.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T122858Z" creationid="samuel" creationdate="20191110T140659Z">
+        <seg>Once you have exercised your right of objection, we will not process your personal data for these purposes any further, unless we can establish compelling reasons for processing that are worthy of protection, and which outweigh your interests, rights, and freedoms, or if the processing is in service of the establishment, exercise or defense of legal claims.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Nach Ihrer Legitimation als rechtmäßiger Karteninhaber fordern wir Ihr Kreditkartenunternehmen zur Einleitung der Zahlungstransaktion auf und nehmen dadurch Ihr Angebot an.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T115655Z" creationid="samuel" creationdate="20191109T144252Z">
+        <seg>After confirming your being the rightful cardholder, we will request your credit card company to begin the payment transaction process. This constitutes our accepting your order.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Nach Ihrer Legitimation als rechtmäßiger Karteninhaber fordern wir unmittelbar nach der Bestellung Ihr Kreditkartenunternehmen zur Einleitung der Zahlungstransaktion auf.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T115900Z" creationid="samuel" creationdate="20191109T150426Z">
+        <seg>After confirming you to be the rightful cardholder, we will request your credit card company to commence the payment transaction process.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Nach Zweckfortfall und Ende des Einsatzes von Google Analytics durch uns werden die in diesem Zusammenhang erhobenen Daten gelöscht.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T013012Z" creationid="samuel" creationdate="20191110T013012Z">
+        <seg>The data collected in the context of Google Analytics will be deleted after the object of analysis has ceased to exist or we discontinue our use of Google Analytics.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Nach vollständiger Abwicklung des Vertrages oder Löschung Ihres Kundenkontos werden Ihre Daten für die weitere Verarbeitung eingeschränkt und nach Ablauf der steuer- und handelsrechtlichen Aufbewahrungsfristen gelöscht, sofern Sie nicht ausdrücklich in eine weitere Nutzung Ihrer Daten eingewilligt haben oder wir uns eine darüber hinausgehende Datenverwendung vorbehalten, die gesetzlich erlaubt ist und über die wir Sie in dieser Erklärung informieren.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T121624Z" creationid="samuel" creationdate="20191109T210821Z">
+        <seg>After completing the processing of the contract or deleting your account, further processing of your data will be limited and will be deleted after the relevant minimum retention period mandated by tax- and commercial law has passed, should you not have explicitly consented to further use of your data or should we not have reserved the right to further processing of your data elsewhere in this statement, in cases in which this further processing is permitted by the law.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Nachstehend informieren wir Sie ausführlich über den Umgang mit Ihren Daten.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191109T170822Z" creationid="samuel" creationdate="20191109T170822Z">
+        <seg>Find hereafter information on the handling and processing of your data.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T123319Z" creationid="samuel" creationdate="20191110T011905Z">
+        <seg>Only in exceptional cases is the full IP address transmitted to a Google server in the USA and then shortened there.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Opera™ : https://help.opera.com/de/latest/web-preferences/#cookies</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T003047Z" creationid="samuel" creationdate="20191110T003047Z">
+        <seg>Opera™: https://help.opera.com/en/latest/web-preferences/#cookies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>PayPal</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191109T144303Z" creationid="samuel" creationdate="20191109T144303Z">
+        <seg>PayPal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Pflichtfelder werden als solche gekennzeichnet, da wir in diesen Fällen die Daten zwingend zur Vertragsabwicklung, bzw. zur Bearbeitung Ihrer Kontaktaufnahme benötigen und Sie ohne deren Angabe die Bestellung bzw. die Kontaktaufnahme nicht versenden können.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T121529Z" creationid="samuel" creationdate="20191109T205557Z">
+        <seg>Mandatory fields are marked as such. In these cases we require this data to execute the contract or to process your contact request. Submitting the order or sending the contact request will not be possible should this data not be on hand.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Safari™: https://support.apple.com/de-de/guide/safari/sfri11471/12.0/mac/10.14</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T003034Z" creationid="samuel" creationdate="20191110T003034Z">
+        <seg>Safari™: https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/13.0/mac/10.15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Sie haben das Recht, binnen vierzehn Tagen ohne Angabe von Gründen diesen Vertrag zu widerrufen.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T120119Z" creationid="samuel" creationdate="20191109T155534Z">
+        <seg>You may revoke the contract within 14 days, and do so without providing grounds.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Sie haben die Waren unverzüglich und in jedem Fall spätestens binnen vierzehn Tagen ab dem Tag, an dem Sie uns über den Widerruf dieses Vertrags unterrichten, an uns zurückzusenden oder zu übergeben.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T120347Z" creationid="samuel" creationdate="20191109T164311Z">
+        <seg>You must post or hand over the products immediately and no later than 14 days with this starting with the day on which you informed us of the revocation of the contract.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Sie haben grundsätzlich die Möglichkeit der Abholung bei JET BELT, Dreimühlenstrasse 30 , 80469 München, Deutschland zu den nachfolgend angegebenen Geschäftszeiten: Montag bis Freitag 11:00 – 19:00, Samstag 10:00 – 12:00.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T115841Z" creationid="samuel" creationdate="20191109T145848Z">
+        <seg>You may also pick up the your order at JET BELT, Dreimühlenstraße 30, 80469, Munich, Germany within the business hours of 11 am - 7 pm (Monday - Friday) and 10 am - 12 pm (Saturday)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Sie können Ihren Browser so einstellen, dass Sie über das Setzen von Cookies informiert werden und einzeln über deren Annahme entscheiden oder die Annahme von Cookies für bestimmte Fälle oder generell ausschließen.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T121921Z" creationid="samuel" creationdate="20191110T002321Z">
+        <seg>You can change your browser settings as to be informed whenever cookies are about to be stored. This enables you to decide to accept or refuse them on a case-by-case basis, to store cookies only under specific circumstances or not at all. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Sie können dafür das beigefügte Muster-Widerrufsformular verwenden, das jedoch nicht vorgeschrieben ist.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T235307Z" creationid="samuel" creationdate="20191109T161408Z">
+        <seg>You may - but do not have to - use the included model revocation form.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Sie können das Laden der Plugins auch mit Add-Ons für Ihren Browser komplett verhindern, z. B. mit dem Skript-Blocker „NoScript“ (https://noscript.net/).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T124830Z" creationid="samuel" creationdate="20191110T124830Z">
+        <seg>You may also completely prevent these plug-ins from being loaded by using browser add-ons such as the script blocker "NoScript" (https://noscript.net/).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Sie können das Remarketing-Cookie über diesen Link deaktivieren.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T112621Z" creationid="samuel" creationdate="20191110T112621Z">
+        <seg>You may disable the remarketing-cookie by clicking on this link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Sie können die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem sie das unter dem folgenden Link verfügbare Browser-Plugin herunterladen und installieren: https://tools.google.com/dlpage/gaoptout?hl=de</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T014153Z" creationid="samuel" creationdate="20191110T014153Z">
+        <seg>You can prevent the collection and processing of your usage data gathered via the Google Analytics cookie by downloading and installing the browser add-on available here: https://tools.google.com/dlpage/gaoptout </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Sie können die Erfassung der durch das JavaScript, bzw. das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem sie in Ihren Browser-Einstellungen die Ausführung von JavaScripten oder das Setzen von Cookies unterbinden.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T120113Z" creationid="samuel" creationdate="20191110T120113Z">
+        <seg>You can prevent the collection and processing of your usage data (including your IP address) gathered via JavaScript or cookies by Google by disabling JavaScript and cookies in your browser settings. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Sie können unsere Produkte zunächst unverbindlich in den Warenkorb legen und Ihre Eingaben vor Absenden Ihrer verbindlichen Bestellung jederzeit korrigieren, indem Sie die hierfür im Bestellablauf vorgesehenen und erläuterten Korrekturhilfen nutzen.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T234835Z" creationid="samuel" creationdate="20191109T005813Z">
+        <seg>You are invited to place any product in the shopping cart without incurring any obligation to order, and to correct your entries before submission of your binding final order via the tooltips available during the ordering process. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Sie können unsere Webseiten besuchen, ohne Angaben zu Ihrer Person zu machen.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191109T171051Z" creationid="samuel" creationdate="20191109T171051Z">
+        <seg>You can visit our website without providing personal details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Sie müssen für einen etwaigen Wertverlust der Waren nur aufkommen, wenn dieser Wertverlust auf einen zur Prüfung der Beschaffenheit, Eigenschaften und Funktionsweise der Waren nicht notwendigen Umgang mit ihnen zurückzuführen ist.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T120925Z" creationid="samuel" creationdate="20191109T165045Z">
+        <seg>You are to bear the costs of any possible loss in value of the products only in cases in which this loss in value cannot be ascribed to necessary actions taken in the course of testing and determining the quality, features, and functionality of the products.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Sie tragen die unmittelbaren Kosten der Rücksendung der Waren.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191109T164616Z" creationid="samuel" creationdate="20191109T164616Z">
+        <seg>You shall bear the immediate costs of returning the products.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Sind Sie bei einem der Dienste eingeloggt, können die Anbieter den Besuch unserer Website Ihrem Profil in dem jeweiligen sozialen Netzwerk unmittelbar zuordnen.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T123759Z" creationid="samuel" creationdate="20191110T123759Z">
+        <seg>Should you be logged in, the relevant provider is able to associate the accessing of the web page with your profile in the respective social network.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Sind sie in diesem Fall während des Seitenbesuchs unserer Webseite bei Google eingeloggt, verwendet Google Ihre Daten zusammen mit Google Analytics-Daten, um Zielgruppenlisten für geräteübergreifendes Remarketing zu erstellen und zu definieren.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T112323Z" creationid="samuel" creationdate="20191110T112323Z">
+        <seg>Should this be the case and if you are logged in with your Google account during your visit to our website, Google will use your information in conjunction with Google Analytics data to create and define target audience lists for cross-device remarketing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Sofern Sie uns hierzu während oder nach Ihrer Bestellung Ihre ausdrückliche Einwilligung gemäß Art.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T132748Z" creationid="samuel" creationdate="20191110T132605Z">
+        <seg>Should you have given your express consent during or after ordering in accordance with </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Sollten Sie diesbezüglich dennoch Hilfe benötigen, können Sie sich an uns wenden.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T131700Z" creationid="samuel" creationdate="20191110T131700Z">
+        <seg>However, should you require any help in this regard, please do not hesitate to contact us.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Soweit Informationen auf Server von Google in den USA übertragen und dort gespeichert werden, ist die amerikanische Gesellschaft Google LLC unter dem EU-US-Privacy Shield zertifiziert.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T013426Z" creationid="samuel" creationdate="20191110T013142Z">
+        <seg>The American corporation Google LLC is certified for the data transfer to and storage on a Google server in the US in accordance with the EU-US-Privacy Shield.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Soweit Sie hierzu Ihre Einwilligung nach Art.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T235827Z" creationid="samuel" creationdate="20191109T210020Z">
+        <seg>Should you have given your consent in accordance with</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Soweit die Verarbeitung zu anderen Zwecken erfolgt, steht Ihnen ein Widerspruchsrecht nur bei Vorliegen von Gründen, die sich aus Ihrer besonderen Situation ergeben, zu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T122835Z" creationid="samuel" creationdate="20191110T140413Z">
+        <seg>In cases in which your data is processed for other purposes, you may object to such processing only for reasons arising from your particular circumstances.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Soweit die vorgenannten Social-Media Plattformen ihren Hauptsitz in den USA haben, gilt Folgendes: Für die USA liegt ein Angemessenheitsbeschluss der Europäischen Kommission vor.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T122503Z" creationid="samuel" creationdate="20191110T131339Z">
+        <seg>In cases in which the social media platforms are headquartered in the US, an adequacy decision by the European Commission is available.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Soweit wir zur Wahrung unserer im Rahmen einer Interessensabwägung überwiegenden berechtigten Interessen personenbezogene Daten wie oben erläutert verarbeiten, können Sie dieser Verarbeitung mit Wirkung für die Zukunft widersprechen.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T122727Z" creationid="samuel" creationdate="20191110T140134Z">
+        <seg>In cases in which we process personal data to ensure our in the course of weighing the various interests prevailing, legitimate interests as described above, you may refuse this processing, effective from the time of refusal. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Telefon: 01724652004</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191109T001620Z" creationid="samuel" creationdate="20191109T001541Z">
+        <seg>Phone: +49 172 4652004</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Um Ihr Widerrufsrecht auszuüben, müssen Sie uns (Jetbelt Inh. Andreas Felger, Dreimühlenstrasse 30, 80489 München, Deutschland, felger@jetbelt.de, Telefon: 01724652004) mittels einer eindeutigen Erklärung (z. B. ein mit der Post versandter Brief, Telefax oder E-Mail) über Ihren Entschluss, diesen Vertrag zu widerrufen, informieren.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T235244Z" creationid="samuel" creationdate="20191109T160357Z">
+        <seg>To exercise your right of revocation, you must declare your revocation of the contract by informing us (JETBELT Inh. Andreas Felger, Dreimühlenstraße 30, 80469 Munich, Germany, felger@jetbelt.de, +49 172 4652004) via an unambiguous and explicit declaration of your revocation of the contract. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Um den Besuch unserer Website attraktiv zu gestalten und die Nutzung bestimmter Funktionen zu ermöglichen, um passende Produkte anzuzeigen oder zur Marktforschung verwenden wir auf verschiedenen Seiten sogenannte Cookies.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T121743Z" creationid="samuel" creationdate="20191110T001640Z">
+        <seg>To ensure visiting our website is enjoyable, to enable certain features, to show relevant products as well as to enable market research, we use so-called cookies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Um den Rechnungsbetrag über PayPal bezahlen zu können, müssen Sie dort registriert sein bzw. sich erst registrieren, mit Ihren Zugangsdaten legitimieren und die Zahlungsanweisung an uns bestätigen.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T115921Z" creationid="samuel" creationdate="20191109T150932Z">
+        <seg>To pay via PayPal, you have to be registered - or to register - with PayPal, log in with your account details, and confirm the payment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Um den Service von Google Maps zu deaktivieren und damit die Datenübermittlung an Google zu verhindern, müssen Sie die Java-Script-Funktion in Ihrem Browser deaktivieren.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T143103Z" creationid="samuel" creationdate="20191110T113812Z">
+        <seg>To disable the Google Maps service and thereby prevent data from being transmitted to Google, you must disable JavaScript in your browser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Umsatzsteuer-Identifikationsnummer: DE 812517201</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191109T002049Z" creationid="samuel" creationdate="20191109T002049Z">
+        <seg>VAT identification number: DE 812517201</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Unsere Onlinepräsenz auf Facebook</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T122345Z" creationid="samuel" creationdate="20191110T130003Z">
+        <seg>Our Facebook page</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Unsere Präsenz auf sozialen Netzwerken und Plattformen dient einer besseren, aktiven Kommunikation mit unseren Kunden und Interessenten.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T122413Z" creationid="samuel" creationdate="20191110T130124Z">
+        <seg>We maintain a presence on social networks and in order to facilitate the proactive communication  with customers and other interested persons.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Unternehmer ist eine natürliche oder juristische Person oder eine rechtsfähige Personengesellschaft, die bei Abschluss eines Rechtsgeschäfts in Ausübung ihrer gewerblichen oder selbständigen beruflichen Tätigkeit handelt.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T115417Z" creationid="samuel" creationdate="20191109T004516Z">
+        <seg>An entrepreneur is any natural person or legal entity that completes a transaction for the purposes of its commercial or freelance activities.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Verantwortlicher für die Datenverarbeitung ist:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191109T163743Z" creationid="samuel" creationdate="20191109T163743Z">
+        <seg>The party responsible for data processing is:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Verbraucher ist jede natürliche Person, die ein Rechtsgeschäft zu Zwecken abschließt, die überwiegend weder ihrer gewerblichen noch ihrer selbständigen beruflichen Tätigkeit zugerechnet werden können.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T115440Z" creationid="samuel" creationdate="20191109T004134Z">
+        <seg>A consumer is a natural person who completes a transaction mainly for purposes that can be predominantly not attributed to her or his commercial or self-employed activity.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Verwendung von Social Plugins von Facebook, Instagram</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T122250Z" creationid="samuel" creationdate="20191110T122121Z">
+        <seg>Use of social plug-ins provided by Facebook, Instagram</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Vorkasse</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191109T143407Z" creationid="samuel" creationdate="20191109T143407Z">
+        <seg>Payment in advance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wann der Vertrag mit uns zustande kommt, richtet sich nach der von Ihnen gewählten Zahlungsart:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T234916Z" creationid="samuel" creationdate="20191109T143216Z">
+        <seg>The time of the conclusion of our contract is determined by the method of payment: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Weitere Hinweise erhalten Sie beim Bestellvorgang.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T115933Z" creationid="samuel" creationdate="20191109T151111Z">
+        <seg>Further information will be made available while ordering.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Weitere Informationen zu der Datenschutzpolicy von Google finden Sie hier.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T120328Z" creationid="samuel" creationdate="20191110T120257Z">
+        <seg>Further information on Google's privacy policy can be found here.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Weitergehende Informationen über die Datenverarbeitung durch Google finden Sie in den Datenschutzhinweisen von Google.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T120303Z" creationid="samuel" creationdate="20191110T114004Z">
+        <seg>Further information on Google's data processing can be found in Google's privacy policy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Welche Daten erhoben werden, ist aus den jeweiligen Eingabeformularen ersichtlich.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191109T205812Z" creationid="samuel" creationdate="20191109T205812Z">
+        <seg>Every input form reveals exactly which data is being collected.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wenn Sie diesen Vertrag widerrufen, haben wir Ihnen alle Zahlungen, die wir von Ihnen erhalten haben, einschließlich der Lieferkosten (mit Ausnahme der zusätzlichen Kosten, die sich daraus ergeben, dass Sie eine andere Art der Lieferung als die von uns angebotene, günstigste Standardlieferung gewählt haben), unverzüglich und spätestens binnen vierzehn Tagen ab dem Tag zurückzuzahlen, an dem die Mitteilung über Ihren Widerruf dieses Vertrags bei uns eingegangen ist.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T235341Z" creationid="samuel" creationdate="20191109T162633Z">
+        <seg>Should you decide to revoke the contract, we must pay back all payments received from you, including the cost of delivery but excluding any additional costs incurred via the selection of a delivery method more expensive than the most inexpensive standard delivery option, immediately and no later than fourteen days counting from the day of receipt of your declaration of the revocation of the contract.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wenn Sie eine Seite unseres Webauftritts aufrufen, die ein solches Plugin enthält, stellt Ihr Browser eine direkte Verbindung zu den Servern von Facebook, Google, Twitter oder Instagram her.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T122254Z" creationid="samuel" creationdate="20191110T122638Z">
+        <seg>When you visit a web page of ours on which such a plug-in is used, your browser will establish a direct connection to the servers of Facebook, Google, Twitter or Instagram, respectively.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wenn Sie mit den Plugins interagieren, zum Beispiel den „Like“- oder den „Share“-Button betätigen, wird die entsprechende Information ebenfalls direkt an einen Server der Anbieter übermittelt und dort gespeichert.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T123933Z" creationid="samuel" creationdate="20191110T123933Z">
+        <seg>Should you choose to interact with the plug-in, for example by pressing the "Like" or "Share" button, the corresponding information will be transmitted directly to a server of the relevant provider and stored there.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wenn Sie nicht möchten, dass die sozialen Netzwerke die über unseren Webauftritt gesammelten Daten unmittelbar Ihrem Profil in dem jeweiligen Dienst zuordnen, müssen Sie sich vor Ihrem Besuch unserer Website bei dem entsprechenden Dienst ausloggen.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T124635Z" creationid="samuel" creationdate="20191110T124635Z">
+        <seg>Should you not wish that the relevant provider associate the data collected on our website directly with your profile on the relevant platform, you must log out there before visiting our website.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Widerrufsrecht (Revocation Policy)</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191109T155632Z" creationid="samuel" creationdate="20191109T155310Z">
+        <seg>Revocation Policy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Widerspruchsmöglichkeit (Opt-Out):</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T131828Z" creationid="samuel" creationdate="20191110T131828Z">
+        <seg>Opt-out option:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Widerspruchsrecht</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T122719Z" creationid="samuel" creationdate="20191110T135844Z">
+        <seg>Right of objection (Opt-out)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wir erheben personenbezogene Daten, wenn Sie uns diese im Rahmen Ihrer Bestellung oder bei einer Kontaktaufnahme mit uns (z.B. per Kontaktformular oder E-Mail) freiwillig mitteilen.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T121426Z" creationid="samuel" creationdate="20191109T205141Z">
+        <seg>We gather personal data in cases in which you you choose to share this data. This occurs in the course of ordering from us or when contacting us (e.g. via the contact form or email).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wir freuen uns über Ihr Interesse an unserem Online-Shop.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T142131Z" creationid="samuel" creationdate="20191109T170629Z">
+        <seg>We are delighted in your interest in our online shop.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wir haben keinen Einfluss auf diese Datenverarbeitung.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T113636Z" creationid="samuel" creationdate="20191110T113636Z">
+        <seg>We have no control over or influence on this data processing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wir informieren dort über unsere Produkte und laufende Sonderaktionen.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T122428Z" creationid="samuel" creationdate="20191110T130148Z">
+        <seg>On such networks and platforms, we provide information about our products and current special offers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wir können die Rückzahlung verweigern, bis wir die Waren wieder zurückerhalten haben oder bis Sie den Nachweis erbracht haben, dass Sie die Waren zurückgesandt haben, je nachdem, welches der frühere Zeitpunkt ist.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T120331Z" creationid="samuel" creationdate="20191109T163446Z">
+        <seg>We may refuse to disburse the refund until we have received the products, or until you have provided proof that you have posted the products, whichever is earlier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wir liefern innerhalb Deutschlands versandkostenfrei.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191109T145621Z" creationid="samuel" creationdate="20191109T145621Z">
+        <seg>We offer free shipping within Germany.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wir nehmen Ihre Bestellung durch Versand einer Annahmeerklärung in separater E-Mail innerhalb von zwei Tagen an, in welcher wir Ihnen unsere Bankverbindung nennen.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T115626Z" creationid="samuel" creationdate="20191109T143801Z">
+        <seg>Within two days, we will send you an email containing our bank details. This concludes the contract.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wir sind bereit, an einem außergerichtlichen Schlichtungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T142118Z" creationid="samuel" creationdate="20191109T003117Z">
+        <seg>We are prepared to take part in an extrajudicial arbitration process provided by a consumer dispute resolution body.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wir speichern den Vertragstext und senden Ihnen die Bestelldaten und unsere AGB per E-Mail zu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T115825Z" creationid="samuel" creationdate="20191109T145306Z">
+        <seg>Subsequent to this conclusion, we store the contract and send you an email containing the details of your order as well as our terms and conditions. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wir verwenden die von ihnen mitgeteilten Daten gemäß Art.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T121538Z" creationid="samuel" creationdate="20191109T205840Z">
+        <seg>We employ the data shared by you in accordance with</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>YouTube ist ein Angebot der Google Ireland Limited, einer nach irischem Recht eingetragenen und betriebenen Gesellschaft mit Sitz in Gordon House, Barrow Street, Dublin 4, Irland (www.google.de).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T125219Z" creationid="samuel" creationdate="20191110T125130Z">
+        <seg>YouTube is a service of Google Ireland Limited, a corporation incorporated and operating under Irish law, with its registered office at Gordon House, Barrow Street, Dublin 4, Ireland. (www.google.de) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Youtube Video Plugins</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T122315Z" creationid="samuel" creationdate="20191110T125019Z">
+        <seg>YouTube video plug-ins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Zu diesem Zweck werden im Regelfall Cookies auf Ihrem Endgerät eingesetzt.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T122444Z" creationid="samuel" creationdate="20191110T130645Z">
+        <seg>Cookies comprising data on the user's behavior and interests are usually stored on your device for this purpose.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Zum Teil erheben die ausgewählten Zahlungsdienstleister diese Daten auch selbst, soweit Sie dort ein Konto anlegen.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T000116Z" creationid="samuel" creationdate="20191110T001050Z">
+        <seg>Certain payment service providers collect this data themselves in the course of creating an account.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Zum Zwecke des Schutzes vor Missbrauch unserer Web-Formulare sowie vor Spam nutzen wir im Rahmen einiger Formulare auf dieser Webseite den Google reCAPTCHA Service.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T114731Z" creationid="samuel" creationdate="20191110T114731Z">
+        <seg>To protect our input forms from abuse and against spam more generally, some input forms use the Google reCAPTCHA service.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Zur Teilnahme an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle sind wir nicht verpflichtet und nicht bereit.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191109T142457Z" creationid="samuel" creationdate="20191109T142457Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Zur Vertragserfüllung gemäß Art.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T142631Z" creationid="samuel" creationdate="20191110T000055Z">
+        <seg>To fulfill the contract and in accordance with</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Zur Wahrung der Widerrufsfrist reicht es aus, dass Sie die Mitteilung über die Ausübung des Widerrufsrechts vor Ablauf der Widerrufsfrist absenden.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T120219Z" creationid="samuel" creationdate="20191109T161750Z">
+        <seg>Sufficient to ensure observance of the deadline is the posting of the declaration of the revocation of the contract prior to expiry of the deadline.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Zur Webseitenanalyse setzt diese Website Google (Universal) Analytics ein.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T010723Z" creationid="samuel" creationdate="20191110T010723Z">
+        <seg>To perform web data analysis, this website uses Google (Universal) Analytics.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Zuständig ist die Allgemeine Verbraucherschlichtungsstelle des Zentrums für Schlichtung e.V., Straßburger Straße 8, 77694 Kehl am Rhein, www.verbraucher-schlichter.de.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T235158Z" creationid="samuel" creationdate="20191109T003203Z">
+        <seg>The responsible consumer dispute resolution body is the Verbraucherschlichtungsstelle des Zentrums für Schlichtung e.V., Straßburger Straße 8, 77694 Kehl on the Rhine, https://www.verbraucher-schlichter.de/english/english-version.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Zweck und Umfang der Datenerhebung und die weitere Verarbeitung und Nutzung der Daten durch die Anbieter sowie Ihre diesbezüglichen Rechte und Einstellungsmöglichkeiten zum Schutz Ihrer Privatsphäre entnehmen Sie bitte den Datenschutzhinweisen von Google https://policies.google.com/privacy.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T125858Z" creationid="samuel" creationdate="20191110T125803Z">
+        <seg>Find further information on the purpose and scope of data collection as well as information on further processing and utilization of your data by the relevant provider, together with relevant settings and your rights to privacy protection, in Google's privacy policy: https://policies.google.com/privacy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Zweck und Umfang der Datenerhebung und die weitere Verarbeitung und Nutzung der Daten durch die Anbieter sowie eine Kontaktmöglichkeit und Ihre diesbezüglichen Rechte und Einstellungsmöglichkeiten zum Schutz Ihrer Privatsphäre entnehmen Sie bitte den Datenschutzhinweisen der Anbieter.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T124423Z" creationid="samuel" creationdate="20191110T124423Z">
+        <seg>Find further information on the purpose and scope of data collection as well as information on further processing and utilization of your data by the relevant provider, together with the respective contact addresses, settings and your rights to privacy protection, in the privacy policies of the respective providers:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>a DSGVO erteilt haben, indem Sie Sich für die Eröffnung eines Kundenkontos entscheiden, verwenden wir Ihre Daten zum Zwecke der Kundenkontoeröffnung.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191109T210244Z" creationid="samuel" creationdate="20191109T210028Z">
+        <seg>(a) GDPR by choosing to create an account, we will use your data to create this account.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>a DSGVO erteilt haben, verwenden wir Ihre E-Mail-Adresse zur Erinnerung zur Abgabe einer Bewertung Ihrer Bestellung über das von uns eingesetzte Bewertungssystem.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T132846Z" creationid="samuel" creationdate="20191110T132715Z">
+        <seg>(a) GDPR, we will use your email address to remind you to leave a review of your order by means of our review system.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>a DSGVO.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T131111Z" creationid="samuel" creationdate="20191110T131111Z">
+        <seg>(a) GDPR.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>b DSGVO geben wir Ihre Daten an das mit der Lieferung beauftragte Versandunternehmen weiter, soweit dies zur Lieferung bestellter Waren erforderlich ist.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T121642Z" creationid="samuel" creationdate="20191110T000435Z">
+        <seg>(b) GDPR, we will pass your data on to the delivery company to the extent that this is necessary to deliver the ordered products.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>b DSGVO zur Vertragsabwicklung und Bearbeitung Ihrer Anfragen.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191109T210001Z" creationid="samuel" creationdate="20191109T205930Z">
+        <seg>(b) GDPR to execute the contract and to process your contact requests. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>erforderlich ist;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T133717Z" creationid="samuel" creationdate="20191110T133717Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>f DSGVO der Wahrung unserer im Rahmen einer Interessensabwägung überwiegenden berechtigten Interessen am Schutz unserer Webseite vor Missbrauch sowie an einer störungsfreien Darstellung unseres Onlineauftritts.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T115306Z" creationid="samuel" creationdate="20191110T115132Z">
+        <seg>(f) GDPR, to ensure our - in the course of weighing the various interests prevailing - legitimate interest in the protection of our website against misuse as well as a disruption-free presentation of our website.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>f DSGVO der Wahrung unserer im Rahmen einer Interessensabwägung überwiegenden berechtigten Interessen an einer korrekten Darstellung unseres Angebots.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T121218Z" creationid="samuel" creationdate="20191109T202627Z">
+        <seg>(f) GDPR, to ensure our - in the course of weighing the various interests prevailing - legitimate interest in the correct displaying of our products and our site.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>f DSGVO.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T124032Z" creationid="samuel" creationdate="20191110T124032Z">
+        <seg>(f) GDPR.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>f DSGVO. Cookies sind kleine Textdateien, die automatisch auf Ihrem Endgerät gespeichert werden.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T001813Z" creationid="samuel" creationdate="20191110T001813Z">
+        <seg>(f) GDPR. Cookies are small text files that are automatically saved on your device.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>f DSGVO. Google (Universal) Analytics verwendet Methoden, die eine Analyse der Benutzung der Website durch Sie ermöglichen, wie zum Beispiel Cookies.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T122019Z" creationid="samuel" creationdate="20191110T011322Z">
+        <seg>(f) GDPR. Google (Universal) Analytics uses a variety of methods to allow analysis of your use of this website, including cookies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>f DSGVO. Nach Zweckfortfall und Ende des Einsatzes von Google Ads Remarketing durch uns werden die in diesem Zusammenhang erhobenen Daten gelöscht.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T020206Z" creationid="samuel" creationdate="20191110T020206Z">
+        <seg>(f) GDPR. The data collected in the context of Google Ads Remarketing will be deleted after the object of analysis has ceased to exist or we discontinue our use of Google Ads Remarketing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>f) DSGVO.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T020403Z" creationid="samuel" creationdate="20191110T020357Z">
+        <seg>(f) GDPR.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>f. DSGVO der Wahrung unserer im Rahmen einer Interessensabwägung überwiegenden berechtigten Interessen an einer optimierten Darstellung unseres Angebots und effektiver Kommunikation mit den Kunden und Interessenten.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T130840Z" creationid="samuel" creationdate="20191110T130840Z">
+        <seg>(f) GDPR, to ensure our - in the course of weighing the various interests prevailing - legitimate interest for the optimal display of our products.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>felger@jetbelt.de</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191109T163602Z" creationid="samuel" creationdate="20191109T163602Z">
+        <seg>felger@jetbelt.de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>gemäß Art.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T001356Z" creationid="samuel" creationdate="20191110T133024Z">
+        <seg>in accordance with Article</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>https://help.instagram.com/155833707900388</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T123546Z" creationid="samuel" creationdate="20191110T123546Z">
+        <seg>https://help.instagram.com/155833707900388</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>https://www.facebook.com/legal/terms/page_controller_addendum</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T131755Z" creationid="samuel" creationdate="20191110T131755Z">
+        <seg>https://www.facebook.com/legal/terms/page_controller_addendum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>https://www.facebook.com/policy.php</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T123514Z" creationid="samuel" creationdate="20191110T123514Z">
+        <seg>https://www.facebook.com/policy.php</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Über Google Ads werben wir für diese Website in den Google Suchergebnissen sowie auf den Websites Dritter.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T015558Z" creationid="samuel" creationdate="20191110T015558Z">
+        <seg>We use Google Ads to advertise for this website in Google search results as well as third-party websites.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>– An Jetbelt Inh. Andreas Felger, Dreimühlenstrasse 30 , 80489 München, felger@jetbelt.de, Deutschland</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191109T165436Z" creationid="samuel" creationdate="20191109T165339Z">
+        <seg>- To: JETBELT Inh. Andreas Felger, Dreimühlenstraße 30, 80469 Munich, Germany, felger@jetbelt.de </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>– Anschrift des/der Verbraucher(s)</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T120957Z" creationid="samuel" creationdate="20191109T170310Z">
+        <seg>- Address of the customer(s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>– Bestellt am (*)/erhalten am (*)</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191109T170225Z" creationid="samuel" creationdate="20191109T170225Z">
+        <seg>- Date of order (*) / Date of receipt (*)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>– Datum</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191109T170348Z" creationid="samuel" creationdate="20191109T170348Z">
+        <seg>- Date</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>– Hiermit widerrufe(n) ich/wir (*) den von mir/uns (*) abgeschlossenen Vertrag über den Kauf der folgenden Waren (*)/die Erbringung der folgenden Dienstleistung (*)</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191109T170148Z" creationid="samuel" creationdate="20191109T170148Z">
+        <seg>- Hereby I/we revoke the contract of purchase</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>– Name des/der Verbraucher(s)</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T120952Z" creationid="samuel" creationdate="20191109T170240Z">
+        <seg>- Name of the customer(s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>– Sie gemäß Art.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T134138Z" creationid="samuel" creationdate="20191110T134138Z">
+        <seg>- you have objected to processing in pursuant to Article 21 GDPR.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>– Unterschrift des/der Verbraucher(s) (nur bei Mitteilung auf Papier)</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191111T121002Z" creationid="samuel" creationdate="20191109T170343Z">
+        <seg>- Signature of the customer(s) (only applicable for paper messages) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>– aus Gründen des öffentlichen Interesses oder</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T133655Z" creationid="samuel" creationdate="20191110T133646Z">
+        <seg>- for reasons of public interest</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>– die Richtigkeit der Daten von Ihnen bestritten wird;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T133922Z" creationid="samuel" creationdate="20191110T133922Z">
+        <seg>- you contest the accuracy of your personal data</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>– die Verarbeitung unrechtmäßig ist, Sie aber deren Löschung ablehnen;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T134002Z" creationid="samuel" creationdate="20191110T134002Z">
+        <seg>- the processing is unlawful, but you oppose the erasure of this data</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>– wir die Daten nicht mehr benötigen, Sie diese jedoch zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen benötigen oder</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T143326Z" creationid="samuel" creationdate="20191110T134053Z">
+        <seg>- we no longer need the personal data for the purposes of the processing, but they are required by you for the establishment, exercise or defense of legal claims or</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>– zur Ausübung des Rechts auf freie Meinungsäußerung und Information;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T143305Z" creationid="samuel" creationdate="20191110T133622Z">
+        <seg>- for exercising the right of freedom of expression and information </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>– zur Erfüllung einer rechtlichen Verpflichtung;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T133654Z" creationid="samuel" creationdate="20191110T133634Z">
+        <seg>- for compliance with a legal obligation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>– zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191110T143313Z" creationid="samuel" creationdate="20191110T133710Z">
+        <seg>- for the establishment, exercise or defense of legal claims.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.0.0_0_c63a9b8dc" segtype="sentence" srclang="de-DE"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="de-DE">
+        <seg>( Architekt Erich Gassmann, zu den 10 besten Showrooms gewählt von AIT, DETAIL 2007, 2008)</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T170648Z" creationid="samuel" creationdate="20191103T170635Z">
+        <seg>(Architect Erich Gassmann, selected among the 10 best showrooms by AIT, DETAIL 2007, 2008)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>2-Step-Safetybelt Mechanismus – KLICK-AUF, KLICK-ZU in Sekundenbruchteilen</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T141818Z" creationid="samuel" creationdate="20191103T141818Z">
+        <seg>2-Step Safety-Belt Mechanism - CLICK to open and close within milliseconds</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>AVIATOR – Ausführung in Premium Nylon doppelseitig genäht mit Verstärkungsseele und Chrom Verschluß.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T144717Z" creationid="samuel" creationdate="20191103T144717Z">
+        <seg>The AVIATOR: Made with reinforced premium nylon and a chrome buckle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Alle Gürtel sind kompromisslos hochwertig.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T182839Z" creationid="samuel" creationdate="20191103T182839Z">
+        <seg>All belts feature superior quality without compromises.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Alle Gürtel und Verschlüsse werden aus den besten Materialien hergestellt und handgefertigt, um unseren Ansprüchen an einen Premium-Gürtel gerecht zu werden.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T132253Z" creationid="samuel" creationdate="20191103T132253Z">
+        <seg>To meet and surpass your expectations for a belt that earns and not merely receives the label 'premium', each and every belt and buckle are hand-crafted from superior materials.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Andreas Felger weiß bereits mit 22 Jahren, dass für ihn der bürgerliche Weg zum beruflichen Erfolg mittels Hochdienen in hierarchischen Strukturen nicht in Frage kommt.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T171054Z" creationid="samuel" creationdate="20191103T171054Z">
+        <seg>At 22, Andreas Felger has realized: Advancing obsequiously step by step up the corporate ladder, caught within a stultifying net of hierarchy, is just not an option for him. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Auf den zweiten Blick offenbart sich dann der Mut und absolute Formwillen; Man sieht die Details, gekonnt gelöst und eingepasst ins Ganze.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T165415Z" creationid="samuel" creationdate="20191103T165356Z">
+        <seg>Its incredible daring and will to form only reveals itself at the second glance, details precipitating from clear shapes, only to unite with them once again.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Auf einer Messe lernt AF den Top-Gürtelmacher Ludwig Schröder kennen.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T182534Z" creationid="samuel" creationdate="20191103T182534Z">
+        <seg>At an exhibition, Andreas Felger meets the belt-maker Ludwig Schröder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>CENTURION – Ausführung in Premium 4,5mm Kernleder doppelseitig genäht mit Verstärkungsseele vom Rind aus Europa.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T144551Z" creationid="samuel" creationdate="20191103T144551Z">
+        <seg>The CENTURION: Fashioned from 4,5mm reinforced high-grade European cowhide leather.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Das Kernstück wird die Koppel.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T174623Z" creationid="samuel" creationdate="20191103T174623Z">
+        <seg>The belt buckle is the heart of the design.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Das Leder kommt später hinzu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T182151Z" creationid="samuel" creationdate="20191103T182151Z">
+        <seg>The leather option is added later.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Das Original JET BELT® System</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T141221Z" creationid="samuel" creationdate="20191103T141130Z">
+        <seg>The inimitable JET BELT® System</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Das besondere an der Koppel, AF nennt ihn lieber Verschluss, ist das System.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T175707Z" creationid="samuel" creationdate="20191103T175707Z">
+        <seg>Its unique characteristic is the opening and closing mechanism.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Das einzigartige JET BELT® System beruht auf der Safetybelt-Funktion, die Sie als Standard in allen Passagierflugzeugen finden.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T144805Z" creationid="samuel" creationdate="20191103T144805Z">
+        <seg>The unique JET BELT® System is based on Safety-Belt Technology, the very same that keeps you safe and comfortable on every flight.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Das macht uns besonders</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T131501Z" creationid="samuel" creationdate="20191103T131501Z">
+        <seg>Things that set us apart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Dazu kommt die stufenlose Verstellbarkeit, die ohne Löcher auskommt und unsichtbar im Verschluss integriert ist.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T181843Z" creationid="samuel" creationdate="20191103T181843Z">
+        <seg>It also features seamless adjustment, concealed in the buckle and making a perforated, holey belt a thing of the past.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Denn Andreas Felger realisiert seine Vorstellung von einer gelungenen Form, die wuchtig, dabei jedoch elegant und hochwertig ist.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T174832Z" creationid="samuel" creationdate="20191103T174832Z">
+        <seg>Andreas Felger will not rest until his vision of a shape that is both powerful and sophisticated has been made manifest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Der Gürtel ist 115 cm lang und über die gesamte Länge stufenlos verstellbar.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T144328Z" creationid="samuel" creationdate="20191103T144328Z">
+        <seg>115 cm long, seamlessly adjustable along its entire length.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Der Gürtel lässt sich in Sekundenbruchteilen öffnen und wieder schließen, und genauso schnell durch einen anderen Verschluss ersetzen.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T181614Z" creationid="samuel" creationdate="20191103T175858Z">
+        <seg>Through it, you can open and close the belt within milliseconds, and equally quickly and effortlessly swap the buckle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Der Gürtel lässt sich in Sekundenbruchteilen öffnen und wieder schließen.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T134139Z" creationid="samuel" creationdate="20191103T134139Z">
+        <seg>Open and close the belt within milliseconds.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Der Raum präsentiert sich selbstverständlich, glatt, wie aus einem Guss mit großer Leichtigkeit und Eleganz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T185006Z" creationid="samuel" creationdate="20191103T165027Z">
+        <seg>The space is sleek and solid. Its structure is elegant as if die-cast.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Der Tag kann beginnen.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T184447Z" creationid="samuel" creationdate="20191103T184243Z">
+        <seg>You can seize the day.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Der Verschluss lässt sich mit einem Klick abnehmen – Den Gürtel können Sie daher sogar beim Security-Check am Flughafen anbehalten!</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T144731Z" creationid="samuel" creationdate="20191103T144731Z">
+        <seg>Remove the buckle with one click, keep your belt on and avoid uncomfortable fiddling at airport security!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Der einzigartige JET BELT® ist so konzipiert, dass er auch nach vielen Jahren noch seine Funktion behält.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T134007Z" creationid="samuel" creationdate="20191103T134007Z">
+        <seg>Many years down the line, the JET BELT® will still ___ as the first time.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die Idee JET BELT® hat eine lange Reise hinter sich und heute ist bereits die vierte Generation auf dem Markt.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T182754Z" creationid="samuel" creationdate="20191103T182754Z">
+        <seg>The JET BELT® has come a long way - the current JET BELT® is already in its fourth generation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die Idee für JET BELT® wurde durch einen Klang geboren.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T173729Z" creationid="samuel" creationdate="20191103T173721Z">
+        <seg>The idea for the JET BELT® was born through a sound:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die besten Materialien:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T131700Z" creationid="samuel" creationdate="20191103T131700Z">
+        <seg>High-grade materials</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die letzten Worte gehören dem JET BELT®:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T184635Z" creationid="samuel" creationdate="20191103T184635Z">
+        <seg>Finally, the JET BELT®:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die stufenlos verstellbare Länge passt sich ausserdem an Ihre Lebenssituation an!</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T144801Z" creationid="samuel" creationdate="20191103T144801Z">
+        <seg>No matter how your life changes, you can adjust the JET BELT®'s seamlessly adjustable length to fit your needs exactly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Dies alles erfasst man nicht nur mit dem Verstand, am Ende spürt man etwas in sich.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T170545Z" creationid="samuel" creationdate="20191103T170445Z">
+        <seg>Beyond all thinking, a feeling remains:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Dies ermöglicht den Kunden den Verschluss auszuwählen, den er gerade für sein Outfit möchte.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T185216Z" creationid="samuel" creationdate="20191103T181706Z">
+        <seg>In this way, the wearer can pick the buckle that matches his outfit, mood, and style.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Drei Jahre dauert allein die Konstruktion des Koppels bis zur Produktionsreife.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T174709Z" creationid="samuel" creationdate="20191103T174645Z">
+        <seg>Its development alone will take three years:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ein Gefühl, eine Erinnerung.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T170551Z" creationid="samuel" creationdate="20191103T170459Z">
+        <seg>A sensation, a memory. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ein Klick Auf – Ein Klick Zu</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T142442Z" creationid="samuel" creationdate="20191103T142442Z">
+        <seg>One click to open, one click to shut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Einzgartiger 2-Step-Safetybelt Mechanismis – Klick-Auf, Klick-Zu in Sekundenbruchteilen.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T144724Z" creationid="samuel" creationdate="20191103T144724Z">
+        <seg>Unique 2-Step Safety-Belt Mechanism - CLICK to open and close within milliseconds</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Einzigartige Haptik und Sound, hochwertiger Klang beim Öffnen und Schließen der Gürtelschnalle.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T185356Z" creationid="samuel" creationdate="20191103T142110Z">
+        <seg>Enjoy the sensory experience, the sound, and tactile sensation every time you open and close the buckle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Er baut Messestände.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T172741Z" creationid="samuel" creationdate="20191103T172741Z">
+        <seg>He assembles exhibition booths.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Er entwickelt für Bogner eine Handtasche mit automatischer Innenbeleuchtung.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T172637Z" creationid="samuel" creationdate="20191103T172637Z">
+        <seg>For the fashion company Bogner, he develops a handbag with integrated lighting.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Er ist Rebell und Renegat und ein Kämpfer: Sein Ziel ist es, eine eigene Marke zu entwickeln, ein eigenes Produkt zu haben, mit dem er sich identifizieren kann, und das ihm gehört.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T172032Z" creationid="samuel" creationdate="20191103T172032Z">
+        <seg>He knew himself to be a rebel, a renegade, a fighter: He needed to create a brand, a product, one to identify with, to own, to fashion as he saw fit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Er kann Ludwig Schröder davon überzeugen, die Anfertigung der Ledergürtel zu übernehmen, es beginnt eine bis heute fruchtbare Kooperation.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T182659Z" creationid="samuel" creationdate="20191103T182659Z">
+        <seg>He convinces Ludwig Schröder to manufacture the leather belts - and a long-lasting, mutually beneficial partnership begins.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Er musste allerdings für sich selbst herausfinden, was für ihn das Beste ist.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T171635Z" creationid="samuel" creationdate="20191103T171635Z">
+        <seg>But in what way, in which area?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Er studiert Jura, arbeitet nachts in den angesagten Clubs der Münchner Technoszene, verdient gutes Geld und verwendet selbiges für die Entwicklung von Stahlrahmen für Bilder, er meldet ein Patent an, sucht Investoren , aber ergebnislos.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T172537Z" creationid="samuel" creationdate="20191103T172532Z">
+        <seg>For this, he studies law, works in the hip and trendy Munich techno clubs, invests that money into the development of steel picture frames, files a patent, looks for investors, but to no avail.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Er verwandelt das an sich starre Sicherheitskoppel in eine fließende Form, die schön in der Hand liegt, mit leicht konvexen Flächen und dabei den wuchtigen Klang der Sicherheit behält.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T175456Z" creationid="samuel" creationdate="20191103T175456Z">
+        <seg>He transforms the lifeless rigidity of the buckle into a dynamic shape of slightly rounded, convex surfaces, whose contrast does not detract but enhance the dark and heavy sound and weight of safety. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Es beruht auf der Safetybelt-Funktion, die Sie als Standard in allen Passagierflugzeugen finden.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T175738Z" creationid="samuel" creationdate="20191103T175738Z">
+        <seg>It is based on Safety-Belt Technology, the very same that keeps you safe and comfortable on every flight.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Es galt, alles dafür einzusetzen.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T185213Z" creationid="samuel" creationdate="20191103T172206Z">
+        <seg>This would be his herculean mission, the one he would pour his lifeblood into.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Es ist das sonore, fett-metallische und dunkle CLACK!, mit dem der Bügel des Sicherheitsverschlusses federnd im Koppelschloss einrastet.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T174453Z" creationid="samuel" creationdate="20191103T174453Z">
+        <seg>The heavy, dark and metallic CLACK, produced by the closing of the airplane flap buckle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Es ist der Klang der Entschlossenheit, das Signal, dass sich ein Zustand in sein Gegenteil verkehrt: offen – geschlossen, sicher – unsicher.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T174549Z" creationid="samuel" creationdate="20191103T174549Z">
+        <seg>It is a decisive sound, marking the inversion of opposites: open - closed, safe - dangerous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Folgen Sie uns auf Instagram</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T144758Z" creationid="samuel" creationdate="20191103T144758Z">
+        <seg>Follow us on Instagram!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Gemacht für die ganze Welt.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T144753Z" creationid="samuel" creationdate="20191103T144753Z">
+        <seg>made for the world.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Genau das ist JET BELT®.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T184922Z" creationid="samuel" creationdate="20191103T184922Z">
+        <seg>That's the JET BELT®.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Gürtelschnalle im Zink-Gussverfahren gefertigt für eine einzigartige Präzision der Einzelteile.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T142955Z" creationid="samuel" creationdate="20191103T142955Z">
+        <seg>Die-cast zinc buckle to ensure matchless precision.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Handgefertigt in Deutschland.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T133835Z" creationid="samuel" creationdate="20191103T133835Z">
+        <seg>Manufactured in Germany - </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Handmade in Germany – kompromisslose Qualität für ein einzigartiges Erlebnis.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T142333Z" creationid="samuel" creationdate="20191103T142333Z">
+        <seg>Handmade in Germany - superior quality for an incomparable experience.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Hält ein Leben lang:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T133253Z" creationid="samuel" creationdate="20191103T133253Z">
+        <seg>A companion for life</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Im Mai 2005 mietet Andreas Felger ein abgewohntes Apartment mit angeschlossenem Geschäftslokal im Münchener Schlachthofviertel,  Adresse: Dreimühlenstraße 30. Er engagiert Architekten und Handwerker, erklärt ihnen im Detail seine Vorstellung von Wohnung und – vor allem – Laden, lässt bei der Umsetzung seiner Ideen keine Kompromisse zu, scheut weder Mühen noch Kosten, und eröffnet dort schließlich im März 2006 seinen eigenen JET BELT®-Store.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T164057Z" creationid="samuel" creationdate="20191103T145628Z">
+        <seg>May 2005: Andreas Felger rents a worn-down apartment-shop-hybrid in Munich. To turn this future apartment and store in the Dreimühlenstraße 30 into the JET BELT®-Store, he hires architects and craftsmen. He will spare no expense, and permit no compromise, to see his vision of the JET BELT® store come to life. Finally, in March 2006, the JET BELT® store opens its gates for the first time. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>In seiner spontanen und weltoffenen Art wird er einen sogleich in ein Gespräch verwickeln, und man kann sich in Ruhe alle Spielarten der Gürtel, die im Laufe des Projekts entwickelt wurden ansehen.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T185229Z" creationid="samuel" creationdate="20191103T183602Z">
+        <seg>A thoroughly easy-going and cosmopolitan man, there is a high chance you'll find yourself chatting and looking at various versions and prototypes that the belt has gone through.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>JET BELT®    „Rebell, Renegat, Autodidakt“</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T144931Z" creationid="samuel" creationdate="20191103T144931Z">
+        <seg>JET BELT® - "Autodidact, rebel, renegade"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>JET BELT® - System:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T132328Z" creationid="samuel" creationdate="20191103T132328Z">
+        <seg>The JET BELT® System</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>JET BELT® MÜNCHEN</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T183012Z" creationid="samuel" creationdate="20191103T183012Z">
+        <seg>JET BELT® MUNICH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>JET BELT® bekannt aus:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T131203Z" creationid="samuel" creationdate="20191103T131203Z">
+        <seg>JET BELT® - as seen in </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>JET BELT® ist ein deutscher Hersteller von Premium Gürteln aus hochwertigsten Materialien.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T134759Z" creationid="samuel" creationdate="20191103T134759Z">
+        <seg>JET BELT® is a German-based manufacturer of premium belts made from exquisite materials.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Kompromisslos hochwertig.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T131723Z" creationid="samuel" creationdate="20191103T131723Z">
+        <seg>Superior quality without compromises.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Man bekommt einen köstlichen Kaffee und am Ende vergisst man die Zeit.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T183633Z" creationid="samuel" creationdate="20191103T183633Z">
+        <seg>Over some delicious coffee, you'll be absorbed in his world.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Man ist bereit.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T184422Z" creationid="samuel" creationdate="20191103T184151Z">
+        <seg>No matter what:
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Man zieht ihn an, schließt den Verschluss –CLACK!</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T184459Z" creationid="samuel" creationdate="20191103T184131Z">
+        <seg>Put it on, close the buckle: CLACK!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Mit dem JET BELT®-Store realisiert Andreas Felger schließlich die äußere Entsprechung seines gesamten Strebens und Gestaltungswillens:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T164659Z" creationid="samuel" creationdate="20191103T164651Z">
+        <seg>The JET BELT® store is this pursuit and creative drive made manifest:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Nach drei Jahren kommt der erste JET BELT® auf den Markt, damals nur mit Gurtband.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T182135Z" creationid="samuel" creationdate="20191103T182135Z">
+        <seg>After three years in development, the first JET BELT® is born - for only featuring a webbing strap.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Neues aus unserem Lifestyle Blog</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T134517Z" creationid="samuel" creationdate="20191103T134517Z">
+        <seg>Get inspired on our lifestyle-blog</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Prestige Magazin..........</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T131205Z" creationid="samuel" creationdate="20191103T131205Z">
+        <seg>Prestige Magazine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Sich einzugliedern und geduldig warten, bis man an die Reihe kommt, war für Ihn ausgeschlossen.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T171810Z" creationid="samuel" creationdate="20191103T171802Z">
+        <seg>Patiently waiting his turn was out of the question.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Sie werden aus den besten Materialien handgefertigt um den Ansprüchen an einem Premium-Gürtel gerecht zu werden</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T182957Z" creationid="samuel" creationdate="20191103T182957Z">
+        <seg>To earn the label 'premium' and meet and surpass expectations, they are hand-crafted from superior materials.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Sollte man Gelegenheit haben, München zu besuchen, so lohnt sich auf jeden Fall ein kleiner Abstecher zu der JET BELT® - Home Base.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T183149Z" creationid="samuel" creationdate="20191103T183149Z">
+        <seg>Should you be in Munich, it's worth stopping by the JET BELT® home base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Sportlich und elegant zugleich – mit dem JET BELT® haben Sie immer das richtige Accessoire für ihr Outfit parat.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T143254Z" creationid="samuel" creationdate="20191103T143254Z">
+        <seg>Athletic, but elegant - with the JET BELT® you'll always be dressed for the occasion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Stufenlos Längenverstellbar</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T142425Z" creationid="samuel" creationdate="20191103T142425Z">
+        <seg>Seamlessly adjustable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Stufenlose Verstellbarkeit – unsichtbar im Verschluss integriert.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T143138Z" creationid="samuel" creationdate="20191103T143138Z">
+        <seg>Seamless adjustment - camouflaged by the elegant buckle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Unabhängig sein, Geld zum Leben verdienen, „DIE IDEE“ finden: Das ist die Aufgabe!</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T173019Z" creationid="samuel" creationdate="20191103T173019Z">
+        <seg>Sustenance, independence, discovering his idea- that's his challenge!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Und hier ist seine Geschichte.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T170757Z" creationid="samuel" creationdate="20191103T170757Z">
+        <seg>And this is its story.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Unser einzigartiges System beruht auf der Safetybelt-Technik welche Ihnen das Öffnen und Schließen des Gürtels innerhalb von Sekundenbruchteilen ermöglicht.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T144747Z" creationid="samuel" creationdate="20191103T144747Z">
+        <seg>Thanks to the unique Safety-Belt Technology, the belt opens and closes quickly and effortlessly within milliseconds.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Unser einzigartiges System sorgt für eine stufenlose Verstellbarkeit in allen Längen</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T141644Z" creationid="samuel" creationdate="20191103T141444Z">
+        <seg>Owing to this unique system, the belt is seamlessly adjustable - even down to a millimeter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Von seinem Vater, der ein erfolgreicher Topmanager in der internationalen Gasbranche war, lernte er, von sich selbst das Beste zu verlangen und sich auch nur mit dem Bestmöglichen zufrieden zu geben.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T171537Z" creationid="samuel" creationdate="20191103T171537Z">
+        <seg>His father, a successful top executive of an international corporation, had imparted in him the knowledge: He could and should do his best, needed to expect himself to do his best, and only ever be satisfied with the best possible performance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wenn man dort das Glück hat Andreas Felger anzutreffen, begegnet man einem großgewachsenen lässigen Mann, mit einem breiten und offenen Lachen im Gesicht.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T183319Z" creationid="samuel" creationdate="20191103T183319Z">
+        <seg>If you have the pleasure of meeting Andreas Felger, you'll meet a tall, laid-back man with a wide, friendly smile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wenn man nicht das Glück hat in München wohnhaft zu sein ist jeder eingeladen sich auf der Website www.jetbelt.de zu informieren und sich seinen Lieblingsgürtel zu bestellen.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T183943Z" creationid="samuel" creationdate="20191103T183943Z">
+        <seg>But even if you never have the pleasure of visiting Munich, you can get a taste of the JET BELT® showroom and choose your favorite belt at www.jetbelt.de.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wenn man schließlich die Gesamtheit des Raumes erfasst hat, erkennt man das kreative Universum von Andreas Felger: Komplexe Technik und hochwertiges Handwerk in fließende Form und unbedingte Modernität gebracht, maximale Qualität des Materials und dabei eine schwebende Feinheit und Selbstverständlichkeit.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T185031Z" creationid="samuel" creationdate="20191103T170304Z">
+        <seg>Taking in the whole space, his creative universe becomes apparent: sophisticated technology, magnificent materials, and exquisite craftsmanship, cast into flowing shapes, radiating unequivocal modernity. Here, a soaring refinement reveals itself as if obvious.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wir setzen auf Nachhaltigkeit.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T133345Z" creationid="samuel" creationdate="20191103T133345Z">
+        <seg>We value sustainability.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Zehn Jahre davor hatte ihn eine Idee erfasst, die sein Leben prägen und ihn um die halbe Welt treiben würde, und von der er, einmal überzeugt und entschlossen, niemals mehr abweichen sollte.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T164446Z" creationid="samuel" creationdate="20191103T164446Z">
+        <seg>Ten years earlier, an idea had grabbed him. This idea would define his life and drive him to travel half the world. Nevertheless, he would not deviate from the path this idea had set for him.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Über uns:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T134608Z" creationid="samuel" creationdate="20191103T134608Z">
+        <seg>About us:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>– und fühlt sich sicher.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T184435Z" creationid="samuel" creationdate="20191103T184146Z">
+        <seg>- you're ready.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>„FASTEN YOUR SEATBELT“ !</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T173038Z" creationid="samuel" creationdate="20191103T173023Z">
+        <seg>„FASTEN YOUR SEATBELT“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>„Rebell, Renegat, Autodidakt“ in the Prestige Magazin</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="samuel" changedate="20191103T144740Z" creationid="samuel" creationdate="20191103T144740Z">
+        <seg>Prestige Magazine: "Autodidact, rebel, renegade."</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
