@@ -15,3 +15,7 @@
 #maincontent > table{
   table-layout: auto !important;
 }
+
+#adrig{
+  display: none !important;
+}
