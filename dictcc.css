@@ -1,0 +1,17 @@
+#maincontent > img+div, #inotherlangs{
+  display:none;
+}
+#maincontent{
+      margin: 0 auto !important;
+      max-width: 50em;
+  overflow:hidden;
+  padding: 0;
+  width: unset !important;
+}
+#maincontent > * {
+
+  width: 100%;
+}
+#maincontent > table{
+  table-layout: auto !important;
+}
