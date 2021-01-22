@@ -12,7 +12,6 @@ viewManagement = require("view-management")
 bind_view(false, "application", {"cmd", "shift", "alt", "ctrl"}, "I", "Discord", "/Users/sam/app/Discord.app")
 bind_view(false, "application", {"cmd", "shift", "alt", "ctrl"}, "9", "System Preferences", "/Applications/System Preferences.app")
 bind_view(false, "application", {"cmd", "shift", "alt", "ctrl"}, "8", "Activity Monitor", "/Applications/Activity Monitor.app")
-bind_view(false, "application", {"cmd", "shift", "alt", "ctrl" }, "M", "Mailspring", "/Users/sam/app/Mailspring.app")
 bind_view(false, "application", {"cmd", "shift", "alt", "ctrl" }, "space", "OpenMTP", "/Users/sam/app/OpenMTP.app")
 bind_view(false, "application", {"cmd", "shift" }, "<", "Terminal", "/Applications/Terminal.app") 
 bind_view(false, "application", {"cmd", "shift" }, "space", "ForkLift", "/Applications/ForkLift.app")
@@ -44,10 +43,10 @@ windowManager:bindHotkeys({
 
 media = require("media-control")
 
-hs.hotkey.bind({}, "f7", media_controller.prev)
-hs.hotkey.bind({}, "f8", media_controller.toggle)
-hs.hotkey.bind({}, "f9", media_controller.next)
-hs.hotkey.bind({"alt"}, "f8", media_controller.notifyCurrentlyPlaying)
+hs.hotkey.bind({"ctrl"}, "f7", media_controller.prev)
+hs.hotkey.bind({"ctrl"}, "f8", media_controller.toggle)
+hs.hotkey.bind({"ctrl"}, "f9", media_controller.next)
+hs.hotkey.bind({"ctrl", "alt"}, "f8", media_controller.notifyCurrentlyPlaying)
 
 -- META
 
@@ -56,7 +55,10 @@ hs.hotkey.bind({"cmd", "shift", "alt", "ctrl"}, "ß", hs.toggleConsole)
 
 -- MISC
 
-hs.hotkey.bind({}, "f6", function()
+hs.hotkey.bind({"ctrl"}, "f6", function()
   hs.execute("/Users/sam/ref/res/app/scripts/sh/nightlight-toggle.sh", true)
+end)
+hs.hotkey.bind({"ctrl", "alt"}, "f6", function()
+  hs.notify.show(hs.execute("date", true), "", "")
 end)
 
