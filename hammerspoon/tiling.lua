@@ -1,5 +1,12 @@
 globals = require("globals")
 
+function debug_table(table)
+  for key, val in pairs(table) do 
+    print(key)
+    print(val)
+  end
+end
+
 focusapplication = {}
 
 function set_half(name, path, side)
@@ -34,6 +41,7 @@ function setFullscreen()
 end
 
 function switchFocusLRwindow()
+  debug_table(focusapplication)
   if not (focusapplication and focusapplication.left and focusapplication.right and focusapplication.left:mainWindow() and  focusapplication.right:mainWindow()) then
     print("nothing to focus")
     return

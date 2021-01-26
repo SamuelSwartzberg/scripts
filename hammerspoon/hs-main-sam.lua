@@ -1,4 +1,5 @@
 
+
 -- INIT
 
 print("Starting, has mic access?")
@@ -12,6 +13,8 @@ viewManagement = require("view-management")
 bind_view(false, "application", {"cmd", "shift", "alt", "ctrl"}, "I", "Discord", "/Users/sam/app/Discord.app")
 bind_view(false, "application", {"cmd", "shift", "alt", "ctrl"}, "9", "System Preferences", "/Applications/System Preferences.app")
 bind_view(false, "application", {"cmd", "shift", "alt", "ctrl"}, "8", "Activity Monitor", "/Applications/Activity Monitor.app")
+bind_view(false, "application", {"cmd", "shift", "alt", "ctrl"}, "U", "FreeTube", "/Users/sam/app/FreeTube.app")
+bind_view(false, "application", {"cmd", "shift", "alt", "ctrl"}, "P", "KeePassXC", "/Users/sam/app/KeePassXC.app")
 bind_view(false, "application", {"cmd", "shift", "alt", "ctrl" }, "space", "OpenMTP", "/Users/sam/app/OpenMTP.app")
 bind_view(false, "application", {"cmd", "shift" }, "<", "Terminal", "/Applications/Terminal.app") 
 bind_view(false, "application", {"cmd", "shift" }, "space", "ForkLift", "/Applications/ForkLift.app")
@@ -55,10 +58,25 @@ hs.hotkey.bind({"cmd", "shift", "alt", "ctrl"}, "ß", hs.toggleConsole)
 
 -- MISC
 
+supplementary_window = require("display-supplementary-window")
+
 hs.hotkey.bind({"ctrl"}, "f6", function()
   hs.execute("/Users/sam/ref/res/app/scripts/sh/nightlight-toggle.sh", true)
 end)
 hs.hotkey.bind({"ctrl", "alt"}, "f6", function()
   hs.notify.show(hs.execute("date", true), "", "")
 end)
+hs.hotkey.bind({"ctrl"}, "f5", function()
+  hs.eventtap.keyStroke({"cmd"}, "c")
+  hs.execute('say "' .. hs.pasteboard.getContents() .. '"', true)
+end)
+hs.hotkey.bind({"ctrl"}, "ß", function()
+  hs.eventtap.keyStroke({"cmd"}, "c")
+  hs.execute('open -a Vivaldi "https://google.com/search?q=define+$(pbpaste)"', true)
+end)
+hs.hotkey.bind({"cmd", "shift", "alt"}, "v", function()
+  hs.eventtap.keyStrokes(hs.execute('he', true))
+end)
+
+
 
