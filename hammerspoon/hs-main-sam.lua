@@ -66,6 +66,17 @@ end)
 hs.hotkey.bind({"ctrl", "alt"}, "f6", function()
   hs.notify.show(hs.execute("date", true), "", "")
 end)
+hs.hotkey.bind({"ctrl", "cmd", "alt"}, "f6", function()
+  hs.notify.show("timer started", "", "")
+  hs.timer.doAfter(2100, function()
+    hs.execute("say サムさんがずっとずっと前から好きでした！付き合ってください！ ", true)
+  end)
+end)
+hs.hotkey.bind({"ctrl", "cmd", "shift", "alt"}, "f6", function()
+  hs.timer.doAfter(420, function()
+    hs.execute("say サムさんがずっとずっと前から好きでした！付き合ってください！ ", true)
+  end)
+end)
 hs.hotkey.bind({"ctrl"}, "f5", function()
   hs.eventtap.keyStroke({"cmd"}, "c")
   hs.execute('say "' .. hs.pasteboard.getContents() .. '"', true)
@@ -78,5 +89,68 @@ hs.hotkey.bind({"cmd", "shift", "alt"}, "v", function()
   hs.eventtap.keyStrokes(hs.execute('he', true))
 end)
 
+-- EXPERIMENTAL
 
+function copy(obj, seen)
+  if type(obj) ~= 'table' then return obj end
+  if seen and seen[obj] then return seen[obj] end
+  local s = seen or {}
+  local res = setmetatable({}, getmetatable(obj))
+  s[obj] = res
+  for k, v in pairs(obj) do res[copy(k, s)] = copy(v, s) end
+  return res
+end
 
+function createGlobablDiscordKey(modifiers, key, modifiersContainsControl)
+  modifiersOutsideOfDiscord = copy(modifiers)
+  if not modifiersContainsControl then
+    modifiersOutsideOfDiscord[#modifiersOutsideOfDiscord+1]="ctrl"
+  end
+  hs.hotkey.bind(modifiersOutsideOfDiscord, key, function()
+    discord = hs.application.get("Discord")
+    hs.timer.doAfter(0.5, function()
+      discord:activate()
+      hs.eventtap.keyStroke(modifiers, key)
+      discord:hide()
+    end)
+  end)
+end
+
+function bindKeyWithFn(modifiers, key, callback)
+  keycode=hs.keycodes.map[key]
+  hs.eventtap.new({hs.eventtap.event.types.keyDown}, function (e) 	
+    -- If Function key held
+    if e:getFlags().fn then
+      -- test all modifier keys
+      for key, value in pairs(modifiers) do
+        if not hs.eventtap.checkKeyboardModifiers()[value] then
+          return
+        end
+      end
+      print(e:getKeyCode())
+      print(keycode)
+      if e:getKeyCode() ~= keycode then
+        return
+      end
+      print("executing callback")
+      -- It seems that all modifiers are pressed
+      callback()
+    end
+  end):start()
+end
+
+createGlobablDiscordKey({"cmd", "shift"}, "m")
+createGlobablDiscordKey({"cmd", "shift"}, "d")
+createGlobablDiscordKey({"ctrl"}, "ä", true)
+
+bindKeyWithFn({"ctrl"}, "e", function()
+  hs.eventtap.keyStroke({"cmd"}, "c")
+  hs.notify.show(hs.execute("pbpaste | deepl :en", true), "", "")
+end)
+bindKeyWithFn({"ctrl"}, "j", function()
+  hs.eventtap.keyStroke({"cmd"}, "c")
+  hs.notify.show(hs.execute("pbpaste | deepl :ja", true), "", "")
+end)
+bindKeyWithFn({"ctrl", "cmd"}, "w", function()
+  create_new_supplementary_window(hs.execute("weatherwarnings", true), 300, 1000)
+end)

@@ -11,6 +11,7 @@ function media_controller:toggle()
   print(hs.execute("mpc toggle", true))
 end
 function media_controller:notifyCurrentlyPlaying()
+  print("notfying currently playing")
   hs.notify.show(hs.execute("mpc | head -n 1", true), "", "")
 end
 
