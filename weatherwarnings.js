@@ -1,4 +1,6 @@
 let weatherwarnings = read("/Users/sam/tempweatherwarnings.json");
+if (!weatherwarnings) throw new Error("No weatherwarnings found or file was empty");
+if (weatherwarnings.length < 30) throw new Error("File unreasonably short, aborting. Content was " + weatherwarnings)
 let weatherwarningscleaned = weatherwarnings.replace("warnWetter.loadWarnings(", "").replace(");", "");
 let parsedwarnings = JSON.parse(weatherwarningscleaned);
 let munichwarnings = Object.values(parsedwarnings.warnings).filter(item =>{
