@@ -7,19 +7,19 @@ function debug_table(table)
   end
 end
 
-focusapplication = {}
+local focusapplication = {}
 
 function set_half(name, path, side)
-  xcoord = 0
+  local xcoord = 0
   if side=="right" then 
     xcoord= SCREEN_WIDTH/2
   end
   print(name, path, side)
-  application = hs.application.find(name)
+  local application = hs.application.find(name)
   if application then 
     print("appl")
     print(application)
-    window = application:mainWindow()
+    local window = application:mainWindow()
     if window then
       window:focus():setSize({w = SCREEN_WIDTH/2, h = SCREEN_HEIGHT}):setTopLeft(hs.geometry({x=xcoord,y=0}))
       return application
@@ -37,7 +37,7 @@ function set_layout(app1, app2)
 end
 
 function setFullscreen()
-  hs.window.frontmostWindow():setSize({w = SCREEN_WIDTH, h = SCREEN_HEIGHT}):setTopLeft(hs.geometry({x=0,y=0}))
+  hs.window.frontmostWindow():setTopLeft(hs.geometry({x=0,y=0})):setSize({w = SCREEN_WIDTH, h = SCREEN_HEIGHT})
 end
 
 function switchFocusLRwindow()
