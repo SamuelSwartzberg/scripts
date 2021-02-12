@@ -1,13 +1,20 @@
-globals = require("globals")
+local globals = require("globals")
 
 function create_new_supplementary_window(text, width, height)
-  rect=hs.geometry.rect(
+  local TEXTSIZE=16;
+  local APPROX_LINE_HEIGHT=1.3
+  local APPROX_WRAPPING_COMPENSATOR=(1000-width)/300
+  local linecount  = select(2, text:gsub('\n', '\n'))
+  if not height then
+    height = linecount * TEXTSIZE * APPROX_LINE_HEIGHT * APPROX_WRAPPING_COMPENSATOR
+  end
+  local rect=hs.geometry.rect(
     SCREEN_WIDTH-(width+50),
     50,
     width,
     height
   )
-  canvas=hs.canvas.new(rect)
+  local canvas=hs.canvas.new(rect)
   canvas:appendElements({
     type="rectangle", 
     action="fill",
