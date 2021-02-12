@@ -143,7 +143,7 @@
 -- end
 
 
--- function get_view(destructive, type, name, location, width, height)
+-- function get_view(destructive, type, nameopen, location, width, height)
 --   if type == "webview" then
 --     return get_webview(destructive, name, location, width, height)
 --   else 
@@ -160,22 +160,32 @@
 --   end
 -- end
 
-function bind_view(destructive, type, modifiers, key, name, location, width, height)
-  hs.hotkey.bind(modifiers, key, function()
-    -- if views[name] and views[name]:hasContent() and views[name]:getWindow() then
-    --   show_hide(views[name])
+function bind_view(bundleID)
+
+    -- if views[bundleID] and views[bundleID]:hasContent() and views[bundleID]:getWindow() then
+    --   show_hide(views[bundleID])
     -- else 
-    --   views[name] = get_view(destructive, type, name, location, width, height)
+    --   views[bundleID] = get_view(destructive, type, bundleID, location, width, height)
       
     -- end
-
-    application = hs.application.find(name)
+  return function()
+    local application = hs.application.get(bundleID)
     if not application then 
-      hs.application.open(name, 10, true):mainWindow():centerOnScreen()
+      hs.application.open(bundleID, 10, true):mainWindow():centerOnScreen()
     elseif application:mainWindow()==hs.window.focusedWindow() then
       application:hide()
     else
-      application:mainWindow():centerOnScreen():focus()
+      application:activate()
+      if not application:mainWindow() and bundleID=="io.freetubeapp.freetube" then
+        application:kill()
+        hs.timer.doAfter(5, function()
+          hs.application.open(bundleID, 10, true):mainWindow():centerOnScreen()
+        end)
+      elseif not application:mainWindow() then
+         hs.application.open(bundleID, 10, true):mainWindow():centerOnScreen()
+      else
+        application:mainWindow():centerOnScreen()
+      end
     end
-  end)
+  end
 end
