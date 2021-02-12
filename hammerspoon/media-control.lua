@@ -1,4 +1,4 @@
-globals = require("globals")
+local globals = require("globals")
 
 media_controller = {}
 function media_controller:next()
