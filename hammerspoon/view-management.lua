@@ -1,4 +1,4 @@
--- globals = require("globals")
+globals = require("globals")
 -- debug = require("debug")
 -- views = {}
 
@@ -171,7 +171,7 @@ function bind_view(bundleID)
   return function()
     local application = hs.application.get(bundleID)
     if not application then 
-      hs.application.open(bundleID, 10, true):mainWindow():centerOnScreen()
+      hs.application.open(bundleID, 10, true):mainWindow():setSize({w = SCREEN_WIDTH/2, h = SCREEN_HEIGHT}):setTopLeft(hs.geometry({x=0,y=0}))
     elseif application:mainWindow()==hs.window.focusedWindow() then
       application:hide()
     else
@@ -179,12 +179,12 @@ function bind_view(bundleID)
       if not application:mainWindow() and bundleID=="io.freetubeapp.freetube" then
         application:kill()
         hs.timer.doAfter(5, function()
-          hs.application.open(bundleID, 10, true):mainWindow():centerOnScreen()
+          hs.application.open(bundleID, 10, true):mainWindow():setSize({w = SCREEN_WIDTH/2, h = SCREEN_HEIGHT}):setTopLeft(hs.geometry({x=0,y=0}))
         end)
       elseif not application:mainWindow() then
-         hs.application.open(bundleID, 10, true):mainWindow():centerOnScreen()
+         hs.application.open(bundleID, 10, true):mainWindow():setSize({w = SCREEN_WIDTH/2, h = SCREEN_HEIGHT}):setTopLeft(hs.geometry({x=0,y=0}))
       else
-        application:mainWindow():centerOnScreen()
+        application:mainWindow():setSize({w = SCREEN_WIDTH/2, h = SCREEN_HEIGHT}):setTopLeft(hs.geometry({x=0,y=0}))
       end
     end
   end

@@ -35,7 +35,7 @@ function createChordManager()
     for _, shortcut in ipairs(self.shortcuts) do
       shortcut:enable()
     end
-    self.timer = hs.timer.doAfter(2, function()
+    self.timer = hs.timer.doAfter(10, function()
       self:disable()
     end)
   end
